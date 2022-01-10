@@ -1,0 +1,136 @@
+1
+00:00:06,640 --> 00:00:10,240
+A tiny pathogen has reminded us all of
+
+2
+00:00:10,240 --> 00:00:14,500
+how vulnerable and how deeply connected human health is 
+
+3
+00:00:14,500 --> 00:00:18,000
+to the well-being of ecosystems and other species.
+
+4
+00:00:18,960 --> 00:00:21,600
+The World Health Organization estimates that 
+
+5
+00:00:21,600 --> 00:00:26,240
+60 percent of all infectious diseases originate among different animals. 
+
+6
+00:00:27,200 --> 00:00:31,760
+Knowing where the species that transmit disease-causing pathogens occur 
+
+7
+00:00:31,760 --> 00:00:36,880
+is important for recognizing, managing, and preventing potential health threats.
+
+8
+00:00:37,520 --> 00:00:41,520
+With data shared through the Global Biodiversity Information Facility,
+
+9
+00:00:41,520 --> 00:00:43,120
+or GBIF, 
+
+10
+00:00:43,120 --> 00:00:46,160
+scientists and researchers from various disciplines 
+
+11
+00:00:46,160 --> 00:00:49,840
+map the species involved in cycles of disease transmission 
+
+12
+00:00:49,840 --> 00:00:52,280
+and how their distributions are changing.
+
+13
+00:00:52,840 --> 00:00:55,280
+Such data offers an essential element in
+
+14
+00:00:55,280 --> 00:00:58,160
+understanding zoonotic and vector-borne diseases 
+
+15
+00:00:58,720 --> 00:01:01,920
+and identifying areas at risk of potential outbreaks. 
+
+16
+00:01:02,960 --> 00:01:07,720
+Policymakers and public health officials can use the resulting insights 
+
+17
+00:01:07,720 --> 00:01:12,800
+to prepare responses, focus surveillance and allocate resources
+
+18
+00:01:12,800 --> 00:01:15,440
+to protect people’s lives and livelihoods.
+
+19
+00:01:16,080 --> 00:01:19,680
+When combined with climatic and environmental information, 
+
+20
+00:01:19,680 --> 00:01:22,680
+GBIF-mediated data sometimes reveals 
+
+21
+00:01:22,680 --> 00:01:25,120
+and even predicts sites of disease spillover. 
+
+22
+00:01:25,680 --> 00:01:30,080
+In 2018, an analysis using data from the GBIF network 
+
+23
+00:01:30,080 --> 00:01:34,880
+identified a high-risk hotspot for the Nipah virus outbreak in southern India 
+
+24
+00:01:34,880 --> 00:01:36,800
+just before the disease emerged there.
+
+25
+00:01:37,440 --> 00:01:39,480
+By contributing to a "One Health" approach 
+
+26
+00:01:39,480 --> 00:01:42,480
+that recognizes the intimate connection 
+
+26
+00:01:42,480 --> 00:01:47,040
+between the well-being of humans, animals, and ecosystems, 
+
+27
+00:01:47,040 --> 00:01:50,040
+data shared through GBIF helps us 
+
+28
+00:01:50,040 --> 00:01:53,440
+understand and prepare for potential disease risks, 
+
+29
+00:01:53,440 --> 00:01:57,040
+reducing the many costs of future disease outbreaks 
+
+30
+00:01:57,040 --> 00:01:59,840
+to keep people and the planet healthy.
+
+31
+00:02:00,480 --> 00:02:01,960
+To learn more about the connections 
+
+32
+00:02:01,960 --> 00:02:06,720
+GBIF reveals between biodiversity and human health
+
+33
+00:02:06,720 --> 00:02:09,500
+visit www.gbif.org/health
+
