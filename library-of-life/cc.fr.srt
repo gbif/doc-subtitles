@@ -1,204 +1,204 @@
 1
 00:00:06,395 --> 00:00:09,535
-For centuries, we have studied the great variety of species
+Pendant des siècles, nous avons étudié la grande variété
 
 2
 00:00:09,540 --> 00:00:11,840
-that inhabit the planet in order to understand
+des espèces qui peuplent la planète
 
 3
 00:00:11,840 --> 00:00:15,240
-how nature’s dynamics work.
+afin de comprendre la dynamique de la nature.
 
 4
 00:00:17,820 --> 00:00:20,935
-Thousands of institutions and people around the world have invested
+Des milliers d’institutions et de personnes dans le monde ont fourni
 
 5
 00:00:20,935 --> 00:00:24,045
-in efforts to generate knowledgeand make it visible
+des efforts visant à produire des connaissances et à les rendre visibles
 
 6
 00:00:24,045 --> 00:00:26,925
-through millions of publications that
+dans des millions de publications scientifiques
 
 7
 00:00:26,925 --> 00:00:30,940
-that we can now simply find by typing the word "biodiversity".
+que nous pouvons maintenant trouver simplement en tapant le mot « biodiversité ».
 
 8
 00:00:33,280 --> 00:00:36,840
-Most of the data behind all this information
+La majorité des données soutenant ces informations
 
 9
 00:00:36,840 --> 00:00:39,840
-is scattered and not very accessible.
+sont dispersées et difficilement accessibles.
 
 10
 00:00:40,580 --> 00:00:43,955
-This data gains value when it is available
+Ces données gagnent en valeur lorsqu'elles sont disponibles
 
 11
 00:00:43,960 --> 00:00:46,160
-for analysis, use and reuse,
+pour l'analyse et la (ré)utilisation,
 
 12
 00:00:46,160 --> 00:00:49,360
-serving as an essential foundation for creating and improving knowledge.
+agissant comme un fondement essentiel de création et d'amélioration des connaissances.
 
 13
 00:00:50,920 --> 00:00:53,900
-Can you imagine how much knowledge could be generated
+Imaginez-vous toutes les découvertes que nous pourrions faire
 
 14
 00:00:53,900 --> 00:00:57,160
-if more people could find and make use of this data
+si plus de personnes pouvaient découvrir ces données et les obtenir
 
 15
 00:00:57,160 --> 00:00:59,500
-in an organized, accessible way?
+de façon structurée et accessible ?
 
 16
 00:01:00,980 --> 00:01:04,540
-The Global Biodiversity Information Facility
+Le GBIF (Global Biodiversity Information Facility)
 
 17
 00:01:04,540 --> 00:01:07,340
-GBIF is a network of governments and organizations
+est un réseau de gouvernements et d'organisations
 
 18
 00:01:07,340 --> 00:01:09,660
-that enables the publication of data
+permettant de publier des données
 
 19
 00:01:09,660 --> 00:01:12,280
-and shares it with the world,
+et de les partager avec le monde entier,
 
 20
 00:01:12,280 --> 00:01:14,680
-making information about biodiversity
+rendant les informations sur la biodiversité
 
 21
 00:01:14,680 --> 00:01:17,740
-available online for researchers and citizens,
+disponibles en ligne pour les chercheurs et les citoyens
 
 22
 00:01:17,740 --> 00:01:19,740
-regardless of their location.
+où qu'ils soient situés.
 
 23
 00:01:21,220 --> 00:01:23,100
-In response to recommendations
+En réponse aux recommandations
 
 24
 00:01:23,100 --> 00:01:25,320
-from international agreements and conventions,
+des conventions et accords internationaux,
 
 25
 00:01:25,320 --> 00:01:28,720
-GBIF includes dozens of participating countries
+le GBIF implique des dizaines de pays participants
 
 26
 00:01:28,720 --> 00:01:30,760
-and nearly 2,000 publishers,
+et près de 2000 éditeurs de données,
 
 27
 00:01:30,760 --> 00:01:34,720
-bringing together a global scale data infrastructure for the natural world
+créant ainsi une des plus grandes infrastructures de données environnementales
 
 28
 00:01:34,720 --> 00:01:37,520
-that informs the sustainable use of biodiversity
+pour une utilisation soutenable des richesses de la nature
 
 29
 00:01:37,520 --> 00:01:40,680
-and contributes to improving people’s quality of life.
+et pour améliorer notre qualité de vie.
 
 30
 00:01:45,420 --> 00:01:47,800
-GBIF allows you to share the data that you capture,
+GBIF vous permet de partager vos données
 
 31
 00:01:47,800 --> 00:01:51,600
-organize, standardize and publish,
+en les normalisant puis les publiant en ligne,
 
 32
 00:01:52,700 --> 00:01:56,600
-contributing to research, education and decision-making
+contribuant ainsi à la recherche, à l'éducation et à la prise de décision
 
 33
 00:01:56,600 --> 00:02:00,060
-and expanding the knowledge we have about our environment.
+et élargissant les connaissances que nous avons sur notre environnement.
 
 34
 00:02:01,060 --> 00:02:04,635
-Data publishers can choose the type of use and attribution
+Les éditeurs de données peuvent choisir quel type d'utilisation et
 
 35
 00:02:04,640 --> 00:02:06,340
-that they want for their data
+quelles modalités de citation ils veulent pour leurs données.
 
 36
 00:02:06,340 --> 00:02:09,680
-and receive public recognition for their contributions.
+Ils bénéficient d'une reconnaissance publique pour leurs contributions.
 
 37
 00:02:11,460 --> 00:02:13,840
-GBIF also makes it possible
+Via les portails de données, GBIF permet
 
 38
 00:02:13,840 --> 00:02:15,740
-for any citizen of the world, including you,
+aussi à tous (y compris vous)
 
 39
 00:02:15,740 --> 00:02:19,000
-to access all the free and open data
+d'accéder à l'ensemble des données libres et ouvertes
 
 40
 00:02:19,000 --> 00:02:21,760
-published through the network’s data portals.
+publiées par le réseau.
 
 41
 00:02:22,280 --> 00:02:26,200
-The nodes from each one of the participating countries
+Dans chaque pays participant, le point nodal national
 
 42
 00:02:26,200 --> 00:02:28,480
-advise and work with organizations
+conseille et collabore avec les institutions
 
 43
 00:02:28,480 --> 00:02:31,200
-through all phases of the data publishing process
+durant toutes les phases du processus de publication
 
 44
 00:02:31,200 --> 00:02:33,900
-to guarantee high-quality data, that are open and accessible.
+pour garantir la qualité, l'ouverture et l'accessibilité des données.
 
 45
 00:02:34,880 --> 00:02:38,300
-We want you to be part of GBIF,
+Nous vous invitons à participer au GBIF, pour construire ensemble
 
 46
 00:02:38,300 --> 00:02:42,080
-so that together we can build a sustainable future
+un futur soutenable dans lequel
 
 47
 00:02:42,080 --> 00:02:45,080
-in which biodiversity information is free and universally available
+les données de biodiversité sont libres et disponibles partout,
 
 48
 00:02:45,080 --> 00:02:47,240
-to science and society.
+au bénéfice de la science et de la société.
 
 49
 00:02:50,220 --> 00:02:51,200
-To learn more about how to become part of
+Pour en savoir plus sur la façon de rejoindre
 
 50
 00:02:51,200 --> 00:02:54,720
-this global biodiversity network,
+ce réseau mondial sur la biodiversité,
 
 51
 00:02:54,720 --> 00:02:58,900
-visit www.gbif.org.
+visitez www.gbif.org/fr.
 
