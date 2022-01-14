@@ -1,38 +1,38 @@
 1
 00:00:06,395 --> 00:00:09,535
-For centuries, we have studied the great variety of species
+几个世纪以来，我们研究了
 
 2
 00:00:09,540 --> 00:00:11,840
-that inhabit the planet in order to understand
+栖息在这个星球上的各种各样的物种，以了解
 
 3
 00:00:11,840 --> 00:00:15,240
-how nature’s dynamics work.
+大自然的动力学是如何运作的。
 
 4
 00:00:17,820 --> 00:00:20,935
-Thousands of institutions and people around the world have invested
+世界各地数以千计的机构和人们都在
 
 5
 00:00:20,935 --> 00:00:24,045
-in efforts to generate knowledgeand make it visible
+努力产生知识，并通过
 
 6
 00:00:24,045 --> 00:00:26,925
-through millions of publications that
+数以百万计的发布使其可见，
 
 7
 00:00:26,925 --> 00:00:30,940
-that we can now simply find by typing the word "biodiversity".
+我们现在只需输入“生物多样性”这个词就可以找到这些知识。
 
 8
 00:00:33,280 --> 00:00:36,840
-Most of the data behind all this information
+所有这些信息背后的大部分数据
 
 9
 00:00:36,840 --> 00:00:39,840
-is scattered and not very accessible.
+都是分散的，不太容易获取。
 
 10
 00:00:40,580 --> 00:00:43,955
