@@ -1,30 +1,30 @@
 1
 00:00:06,640 --> 00:00:10,240
-A tiny pathogen has reminded us all of
+Un minuscule agent pathogène nous a tous rappelé
 
 2
 00:00:10,240 --> 00:00:14,500
-how vulnerable and how deeply connected human health is
+à quel point la santé humaine est vulnérable et profondément liée
 
 3
 00:00:14,500 --> 00:00:18,000
-to the well-being of ecosystems and other species.
+au bien-être des écosystèmes et des autres espèces.
 
 4
 00:00:18,960 --> 00:00:21,600
-The World Health Organization estimates that 
+L'Organisation Mondiale de la Santé estime que
 
 5
 00:00:21,600 --> 00:00:26,240
-60 percent of all infectious diseases originate among different animals. 
+60 % de toutes les maladies infectieuses proviennent de différents animaux.
 
 6
 00:00:27,200 --> 00:00:31,760
-Knowing where the species that transmit disease-causing pathogens occur 
+Savoir où se trouvent les espèces qui transmettent des pathogènes responsables de maladies
 
 7
 00:00:31,760 --> 00:00:36,880
-is important for recognizing, managing, and preventing potential health threats.
+est important pour la reconnaissance, la gestion et la prévention des menaces potentielles pour la santé.
 
 8
 00:00:37,520 --> 00:00:41,520
@@ -32,7 +32,7 @@ With data shared through the Global Biodiversity Information Facility,
 
 9
 00:00:41,520 --> 00:00:43,120
-or GBIF, 
+ou GBIF,
 
 10
 00:00:43,120 --> 00:00:46,160
