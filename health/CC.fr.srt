@@ -28,7 +28,7 @@ est important pour la reconnaissance, la gestion et la prévention des menaces p
 
 8
 00:00:37,520 --> 00:00:41,520
-With data shared through the Global Biodiversity Information Facility,
+Grâce aux données partagées par le biais du Système mondial d’information sur la biodiversité,
 
 9
 00:00:41,520 --> 00:00:43,120
@@ -36,15 +36,15 @@ ou GBIF,
 
 10
 00:00:43,120 --> 00:00:46,160
-scientists and researchers from various disciplines 
+les scientifiques et chercheurs de diverses disciplines
 
 11
 00:00:46,160 --> 00:00:49,840
-map the species involved in cycles of disease transmission 
+cartographient les espèces impliquées dans les cycles de transmission de maladie
 
 12
 00:00:49,840 --> 00:00:52,280
-and how their distributions are changing.
+et comment leurs distributions changent.
 
 13
 00:00:52,840 --> 00:00:55,280
