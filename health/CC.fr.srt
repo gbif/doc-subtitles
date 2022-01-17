@@ -48,89 +48,89 @@ et comment leurs distributions changent.
 
 13
 00:00:52,840 --> 00:00:55,280
-Such data offers an essential element in
+De telles données sont un élément essentiel pour
 
 14
 00:00:55,280 --> 00:00:58,160
-understanding zoonotic and vector-borne diseases 
+comprendre les maladies zoonotiques et vectorielles
 
 15
 00:00:58,720 --> 00:01:01,920
-and identifying areas at risk of potential outbreaks. 
+et identifier des zones à risque d'épidémies potentielles.
 
 16
 00:01:02,960 --> 00:01:07,720
-Policymakers and public health officials can use the resulting insights
+Les responsables politiques et les responsables de la santé publique peuvent utiliser les informations qui en résultent
 
 17
 00:01:07,720 --> 00:01:12,800
-to prepare responses, focus surveillance and allocate resources
+pour préparer des réponses, concentrer la surveillance et allouer des ressources
 
 18
 00:01:12,800 --> 00:01:15,440
-to protect people’s lives and livelihoods.
+afin de protéger la vie et les moyens de subsistance de leurs populations.
 
 19
 00:01:16,080 --> 00:01:19,680
-When combined with climatic and environmental information, 
+Combinées avec des informations climatiques et environnementales,
 
 20
 00:01:19,680 --> 00:01:22,680
-GBIF-mediated data sometimes reveals
+les données accessibles via GBIF révèlent parfois
 
 21
 00:01:22,680 --> 00:01:25,120
-and even predicts sites of disease spillover. 
+et peuvent même prédire les sites de propagation de maladies.
 
 22
 00:01:25,680 --> 00:01:30,080
-In 2018, an analysis using data from the GBIF network 
+En 2018, une analyse utilisant des données du réseau GBIF
 
 23
 00:01:30,080 --> 00:01:34,880
-identified a high-risk hotspot for the Nipah virus outbreak in southern India
+a identifié une zone à haut risque pour l'épidémie du virus de Nipah dans le sud de l'Inde
 
 24
 00:01:34,880 --> 00:01:36,800
-just before the disease emerged there.
+juste avant que la maladie n'émerge dans cette zone.
 
 25
 00:01:37,440 --> 00:01:39,480
-By contributing to a "One Health" approach 
+En contribuant à une approche "Une seule santé"
 
 26
 00:01:39,480 --> 00:01:42,480
-that recognizes the intimate connection 
+qui reconnaît la connexion intime
 
 26
 00:01:42,480 --> 00:01:47,040
-between the well-being of humans, animals, and ecosystems, 
+entre le bien-être des humains, des animaux et des écosystèmes,
 
 27
 00:01:47,040 --> 00:01:50,040
-data shared through GBIF helps us
+les données partagées via GBIF nous aident
 
 28
 00:01:50,040 --> 00:01:53,440
-understand and prepare for potential disease risks, 
+à comprendre et à se préparer aux risques potentiels de maladie,
 
 29
 00:01:53,440 --> 00:01:57,040
-reducing the many costs of future disease outbreaks 
+réduisant ainsi les nombreux coûts d'épidémies futures
 
 30
 00:01:57,040 --> 00:01:59,840
-to keep people and the planet healthy.
+afin de maintenir les personnes et la planète en bonne santé.
 
 31
 00:02:00,480 --> 00:02:01,960
-To learn more about the connections
+Pour en apprendre plus sur les connexions
 
 32
 00:02:01,960 --> 00:02:06,720
-GBIF reveals between biodiversity and human health
+dévoilée via GBIF entre la biodiversité et la santé humaine
 
 33
 00:02:06,720 --> 00:02:09,500
-visit www.gbif.org/health
+visitez www.gbif.org/health/fr
 
