@@ -20,7 +20,7 @@
 
 6
 00:00:24,045 --> 00:00:26,925
-through millions of publications that
+…數百萬的論文發表和研究著作中
 
 7
 00:00:26,925 --> 00:00:30,940
@@ -28,11 +28,11 @@ through millions of publications that
 
 8
 00:00:33,280 --> 00:00:36,840
-Most of the data behind all this information
+在這些資訊背後，大部分的數據…
 
 9
 00:00:36,840 --> 00:00:39,840
-is scattered and not very accessible.
+…四處分散、不易取得…
 
 10
 00:00:40,580 --> 00:00:43,955
@@ -40,51 +40,51 @@ is scattered and not very accessible.
 
 11
 00:00:43,960 --> 00:00:46,160
-for analysis, use and reuse,
+…也不易用來分析及重覆使用
 
 12
 00:00:46,160 --> 00:00:49,360
-serving as an essential foundation for creating and improving knowledge.
+而資料分析及重覆使用正是創造及增進知識必要的基礎。
 
 13
 00:00:50,920 --> 00:00:53,900
-Can you imagine how much knowledge could be generated
+您能夠想像：如果有更多人能夠找到…
 
 14
 00:00:53,900 --> 00:00:57,160
-if more people could find and make use of this data
+…並能輕易地利用經過組織的資料…
 
 15
 00:00:57,160 --> 00:00:59,500
-in an organized, accessible way?
+…我們將能發掘出多少關於自然界的知識嗎？
 
 16
 00:01:00,980 --> 00:01:04,540
-The Global Biodiversity Information Facility
+全球生物多樣性資訊機構（GBIF）
 
 17
 00:01:04,540 --> 00:01:07,340
-GBIF is a network of governments and organizations
+是一個由各國政府及相關機構形成的網絡
 
 18
 00:01:07,340 --> 00:01:09,660
-that enables the publication of data
+它推動了資料的發表
 
 19
 00:01:09,660 --> 00:01:12,280
-and shares it with the world,
+並且讓全世界共享
 
 20
 00:01:12,280 --> 00:01:14,680
-making information about biodiversity
+讓生物多樣性的資訊
 
 21
 00:01:14,680 --> 00:01:17,740
-available online for researchers and citizens,
+能夠無時無刻地在線上、從任何地點
 
 22
 00:01:17,740 --> 00:01:19,740
-regardless of their location.
+提供給研究人員及公民大眾使用
 
 23
 00:01:21,220 --> 00:01:23,100
