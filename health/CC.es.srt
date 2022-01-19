@@ -1,86 +1,86 @@
 1
 00:00:06,640 --> 00:00:10,240
-A tiny pathogen has reminded us all of
+Un pequeño patógeno nos ha recordado a todos
 
 2
 00:00:10,240 --> 00:00:14,500
-how vulnerable and how deeply connected human health is
+cuán vulnerable y profundamente conectada es la salud humana
 
 3
 00:00:14,500 --> 00:00:18,000
-to the well-being of ecosystems and other species.
+al bienestar de los ecosistemas y otras especies.
 
 4
 00:00:18,960 --> 00:00:21,600
-The World Health Organization estimates that 
+La Organización Mundial de la Salud estima que el 
 
 5
 00:00:21,600 --> 00:00:26,240
-60 percent of all infectious diseases originate among different animals. 
+60 por ciento de todas las enfermedades infecciosas se originan entre diferentes animales.
 
 6
 00:00:27,200 --> 00:00:31,760
-Knowing where the species that transmit disease-causing pathogens occur 
+Saber dónde se encuentran las especies que transmiten los patógenos causantes de enfermedades
 
 7
 00:00:31,760 --> 00:00:36,880
-is important for recognizing, managing, and preventing potential health threats.
+es importante para reconocer, administrar y prevenir posibles amenazas para la salud.
 
 8
 00:00:37,520 --> 00:00:41,520
-With data shared through the Global Biodiversity Information Facility,
+Con datos compartidos a través de la Infraestructura Mundial de Información en Biodiversidad,
 
 9
 00:00:41,520 --> 00:00:43,120
-or GBIF, 
+o GBIF,
 
 10
 00:00:43,120 --> 00:00:46,160
-scientists and researchers from various disciplines 
+científicos e investigadores de diversas disciplinas
 
 11
 00:00:46,160 --> 00:00:49,840
-map the species involved in cycles of disease transmission 
+mapean las especies involucradas en ciclos de transmisión de enfermedades
 
 12
 00:00:49,840 --> 00:00:52,280
-and how their distributions are changing.
+y cómo están cambiando sus distribuciones.
 
 13
 00:00:52,840 --> 00:00:55,280
-Such data offers an essential element in
+Estos datos ofrecen un elemento esencial en
 
 14
 00:00:55,280 --> 00:00:58,160
-understanding zoonotic and vector-borne diseases 
+la comprensión de las enfermedades zoonóticas y transmitidas por vectores
 
 15
 00:00:58,720 --> 00:01:01,920
-and identifying areas at risk of potential outbreaks. 
+y la identificación de áreas en riesgo de brotes potenciales.
 
 16
 00:01:02,960 --> 00:01:07,720
-Policymakers and public health officials can use the resulting insights
+Los responsables de las políticas y los funcionarios de salud pública pueden usar los conocimientos  resultantes
 
 17
 00:01:07,720 --> 00:01:12,800
-to prepare responses, focus surveillance and allocate resources
+para preparar respuestas, enfocar la vigilancia y asignar recursos
 
 18
 00:01:12,800 --> 00:01:15,440
-to protect people’s lives and livelihoods.
+para proteger la vida de las personas y los medios de subsistencia.
 
 19
 00:01:16,080 --> 00:01:19,680
-When combined with climatic and environmental information, 
+Cuando se combina con información climática y ambiental,
 
 20
 00:01:19,680 --> 00:01:22,680
-GBIF-mediated data sometimes reveals
+los datos mediados por GBIF a veces revelan
 
 21
 00:01:22,680 --> 00:01:25,120
-and even predicts sites of disease spillover. 
+e incluso predicen sitios de propagación de enfermedades.
 
 22
 00:01:25,680 --> 00:01:30,080
