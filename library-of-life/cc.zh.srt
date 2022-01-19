@@ -112,7 +112,7 @@ that informs the sustainable use of biodiversity
 
 29
 00:01:37,520 --> 00:01:40,680
-and contributes to improving people’s quality of life.
+并有助于提高人们的生活质量。
 
 30
 00:01:45,420 --> 00:01:47,800
@@ -128,7 +128,7 @@ GBIF可以让您共享您所获得的数据
 
 33
 00:01:56,600 --> 00:02:00,060
-and expanding the knowledge we have about our environment.
+并拓展我们对所处环境已有知识的认识
 
 34
 00:02:01,060 --> 00:02:04,635
