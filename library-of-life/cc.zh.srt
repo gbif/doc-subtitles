@@ -96,7 +96,7 @@ from international agreements and conventions,
 
 25
 00:01:25,320 --> 00:01:28,720
-GBIF includes dozens of participating countries
+GBIF网络有几十个国家会员
 
 26
 00:01:28,720 --> 00:01:30,760
@@ -116,15 +116,15 @@ and contributes to improving people’s quality of life.
 
 30
 00:01:45,420 --> 00:01:47,800
-GBIF allows you to share the data that you capture,
+GBIF可以让您共享您所获得的数据
 
 31
 00:01:47,800 --> 00:01:51,600
-organize, standardize and publish,
+组织、标准化和发布
 
 32
 00:01:52,700 --> 00:01:56,600
-contributing to research, education and decision-making
+用于科学研究、教育和决策
 
 33
 00:01:56,600 --> 00:02:00,060
