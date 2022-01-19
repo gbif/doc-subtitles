@@ -80,11 +80,11 @@ GBIF是一个由政府机构和非政府组织形成的平台
 
 21
 00:01:14,680 --> 00:01:17,740
-available online for researchers and citizens,
+在线提供给研究人员和公众使用
 
 22
 00:01:17,740 --> 00:01:19,740
-regardless of their location.
+无论身在何处
 
 23
 00:01:21,220 --> 00:01:23,100
@@ -100,7 +100,7 @@ GBIF includes dozens of participating countries
 
 26
 00:01:28,720 --> 00:01:30,760
-and nearly 2,000 publishers,
+近2000个发布者
 
 27
 00:01:30,760 --> 00:01:34,720
