@@ -1,6 +1,6 @@
 1
 00:00:06,395 --> 00:00:09,535
-几个世纪以来，我们研究了
+几个世纪以来，我们研究了各个不同种类的物种。
 
 2
 00:00:09,540 --> 00:00:11,840
@@ -36,47 +36,47 @@
 
 10
 00:00:40,580 --> 00:00:43,955
-This data gains value when it is available
+当数据向公众开放时，这些数据更有价值
 
 11
 00:00:43,960 --> 00:00:46,160
-for analysis, use and reuse,
+用于分析、使用和再利用
 
 12
 00:00:46,160 --> 00:00:49,360
-serving as an essential foundation for creating and improving knowledge.
+是知识创新和提高认识的必要基础
 
 13
 00:00:50,920 --> 00:00:53,900
-Can you imagine how much knowledge could be generated
+你能想象会有多少知识产生吗？
 
 14
 00:00:53,900 --> 00:00:57,160
-if more people could find and make use of this data
+如果能有更多的人发现并使用这些数据
 
 15
 00:00:57,160 --> 00:00:59,500
-in an organized, accessible way?
+用系统、开放的方式？
 
 16
 00:01:00,980 --> 00:01:04,540
-The Global Biodiversity Information Facility
+全球生物多样性信息网络（Global Biodiversity Information Facility, GBIF）
 
 17
 00:01:04,540 --> 00:01:07,340
-GBIF is a network of governments and organizations
+GBIF是一个由政府机构和非政府组织形成的平台
 
 18
 00:01:07,340 --> 00:01:09,660
-that enables the publication of data
+进行数据发布
 
 19
 00:01:09,660 --> 00:01:12,280
-and shares it with the world,
+并与全球用户进行分享
 
 20
 00:01:12,280 --> 00:01:14,680
-making information about biodiversity
+提供生物多样性相关的数据和资讯
 
 21
 00:01:14,680 --> 00:01:17,740
@@ -200,5 +200,5 @@ this global biodiversity network,
 
 51
 00:02:54,720 --> 00:02:58,900
-visit www.gbif.org.
+访问www.gbif.org。
 
