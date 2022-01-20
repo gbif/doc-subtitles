@@ -20,7 +20,7 @@ esfuerzos para generar conocimiento y hacerlo visible
 
 5
 00:00:20,935 --> 00:00:24,045
-in efforts to generate knowledgeand make it visible
+en esfuerzos para generar conocimiento y hacerlo visible
 
 6
 00:00:24,045 --> 00:00:26,925
@@ -72,7 +72,7 @@ La Infraestructura Mundial de Información en Biodiversidad,
 
 16
 00:01:00,980 --> 00:01:04,540
-The Global Biodiversity Information Facility
+La Infraestructura Mundial de Información en Biodiversidad
 
 17
 00:01:04,540 --> 00:01:07,340
@@ -84,7 +84,7 @@ que facilita la publicación de datos
 
 18
 00:01:07,340 --> 00:01:09,660
-that enables the publication of data
+que permite la publicación de datos
 
 19
 00:01:09,660 --> 00:01:12,280
@@ -152,7 +152,7 @@ Cada publicador puede seleccionar el tipo de uso y atribución
 
 34
 00:02:01,060 --> 00:02:04,635
-Data publishers can choose the type of use and attribution
+Los publicadores de datos pueden elegir el tipo de uso y atribución
 
 35
 00:02:04,640 --> 00:02:06,340
@@ -168,7 +168,7 @@ De igual forma, GBIF hace posible
 
 36
 00:02:06,340 --> 00:02:09,680
-and receive public recognition for their contributions.
+y recibir reconocimiento público por sus contribuciones.
 
 37
 00:02:11,460 --> 00:02:13,840
