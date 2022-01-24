@@ -96,7 +96,7 @@ justo antes de que la enfermedad apareciera.
 
 25
 00:01:37,440 --> 00:01:39,480
-By contributing to a "One Health" approach 
+Al contribuir a un enfoque de "Una Salud"
 
 26
 00:01:39,480 --> 00:01:42,480
@@ -132,5 +132,5 @@ que GBIF revela entre biodiversidad y salud humana
 
 33
 00:02:06,720 --> 00:02:09,500
-visit www.gbif.org/health
+visitar www.gbif.org/health
 
