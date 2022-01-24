@@ -68,7 +68,7 @@ para preparar respuestas, enfocar la vigilancia y asignar recursos
 
 18
 00:01:12,800 --> 00:01:15,440
-para proteger la vida de las personas y los medios de subsistencia.
+para proteger la vida de las personas y sus medios de subsistencia.
 
 19
 00:01:16,080 --> 00:01:19,680
@@ -88,11 +88,11 @@ En 2018, un análisis utilizando datos de la red GBIF
 
 23
 00:01:30,080 --> 00:01:34,880
-identified a high-risk hotspot for the Nipah virus outbreak in southern India
+identificó un lugar de alto riesgo para el brote del virus Nipah en el sur de la India 
 
 24
 00:01:34,880 --> 00:01:36,800
-just before the disease emerged there.
+justo antes de que la enfermedad apareciera.
 
 25
 00:01:37,440 --> 00:01:39,480
@@ -100,35 +100,35 @@ By contributing to a "One Health" approach 
 
 26
 00:01:39,480 --> 00:01:42,480
-that recognizes the intimate connection 
+que reconoce la conexión íntima
 
 26
 00:01:42,480 --> 00:01:47,040
-between the well-being of humans, animals, and ecosystems, 
+entre el bienestar de humanos, animales y ecosistemas,
 
 27
 00:01:47,040 --> 00:01:50,040
-data shared through GBIF helps us
+los datos compartidos a través de GBIF nos ayudan
 
 28
 00:01:50,040 --> 00:01:53,440
-understand and prepare for potential disease risks, 
+a entender y prepararnos para posibles riesgos de enfermedades,
 
 29
 00:01:53,440 --> 00:01:57,040
-reducing the many costs of future disease outbreaks 
+reduciendo los costos de futuros brotes de enfermedades
 
 30
 00:01:57,040 --> 00:01:59,840
-to keep people and the planet healthy.
+para mantener sanos a la gente y al planeta.
 
 31
 00:02:00,480 --> 00:02:01,960
-To learn more about the connections
+Para aprender más sobre las conexiones
 
 32
 00:02:01,960 --> 00:02:06,720
-GBIF reveals between biodiversity and human health
+que GBIF revela entre biodiversidad y salud humana
 
 33
 00:02:06,720 --> 00:02:09,500
