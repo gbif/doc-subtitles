@@ -1,6 +1,6 @@
 1
 00:00:06,640 --> 00:00:10,240
-Um agente patogênico minúsculo lembrou-nos a todos
+Um agente patogénico minúsculo lembrou-nos a todos
 
 2
 00:00:10,240 --> 00:00:14,500
@@ -12,125 +12,125 @@ com o bem-estar dos ecossistemas e das outras espécies.
 
 4
 00:00:18,960 --> 00:00:21,600
-The World Health Organization estimates that 
+A Organização Mundial de Saúde estima que
 
 5
 00:00:21,600 --> 00:00:26,240
-60 percent of all infectious diseases originate among different animals. 
+60% de todas as doenças infecciosas têm origem em animais diferentes.
 
 6
 00:00:27,200 --> 00:00:31,760
-Knowing where the species that transmit disease-causing pathogens occur 
+Saber onde ocorrem as espécies que transmitem patogénicos causando doenças 
 
 7
 00:00:31,760 --> 00:00:36,880
-is important for recognizing, managing, and preventing potential health threats.
+é importante para reconhecer, gerir e prevenir potenciais ameaças à saúde.
 
 8
 00:00:37,520 --> 00:00:41,520
-With data shared through the Global Biodiversity Information Facility,
+Com os dados partilhados através do Sistema Global de Informação sobre Biodiversidade,
 
 9
 00:00:41,520 --> 00:00:43,120
-or GBIF, 
+ou GBIF,
 
 10
 00:00:43,120 --> 00:00:46,160
-scientists and researchers from various disciplines 
+cientistas e investgadores de várias disciplinas
 
 11
 00:00:46,160 --> 00:00:49,840
-map the species involved in cycles of disease transmission 
+mapeiam as espécies envolvidas em ciclos de transmissão de doenças
 
 12
 00:00:49,840 --> 00:00:52,280
-and how their distributions are changing.
+e como estão a mudar as suas distribuições.
 
 13
 00:00:52,840 --> 00:00:55,280
-Such data offers an essential element in
+Esses dados oferecem um elemento essencial na
 
 14
 00:00:55,280 --> 00:00:58,160
-understanding zoonotic and vector-borne diseases 
+compreensão de doenças zoonóticas e doenças transmitiras por vetores
 
 15
 00:00:58,720 --> 00:01:01,920
-and identifying areas at risk of potential outbreaks. 
+e na identificação das áreas em risco para potenciais surtos.
 
 16
 00:01:02,960 --> 00:01:07,720
-Policymakers and public health officials can use the resulting insights
+Os legisladores e os responsáveis pela saúde pública podem utilizar os conhecimentos daí resultantes
 
 17
 00:01:07,720 --> 00:01:12,800
-to prepare responses, focus surveillance and allocate resources
+para preparar respostas, vigilância de foco e alocar recursos
 
 18
 00:01:12,800 --> 00:01:15,440
-to protect people’s lives and livelihoods.
+para proteger a vida e a subsistência das pessoas.
 
 19
 00:01:16,080 --> 00:01:19,680
-When combined with climatic and environmental information, 
+Quando combinada com informação climática e ambiental,
 
 20
 00:01:19,680 --> 00:01:22,680
-GBIF-mediated data sometimes reveals
+os dados mediados pelo GBIF às vezes revelam
 
 21
 00:01:22,680 --> 00:01:25,120
-and even predicts sites of disease spillover. 
+e até mesmo prevêem locais de propagação de doenças.
 
 22
 00:01:25,680 --> 00:01:30,080
-In 2018, an analysis using data from the GBIF network 
+Em 2018, uma análise usando dados da rede GBIF
 
 23
 00:01:30,080 --> 00:01:34,880
-identified a high-risk hotspot for the Nipah virus outbreak in southern India
+identificou um hotspot de alto risco para o surto de vírus Nipah no sul da Índia
 
 24
 00:01:34,880 --> 00:01:36,800
-just before the disease emerged there.
+pouco antes da doença surgir.
 
 25
 00:01:37,440 --> 00:01:39,480
-By contributing to a "One Health" approach 
+Contribuindo para uma abordagem de "Uma Saúde"
 
 26
 00:01:39,480 --> 00:01:42,480
-that recognizes the intimate connection 
+que reconhece a ligação íntima
 
 26
 00:01:42,480 --> 00:01:47,040
-between the well-being of humans, animals, and ecosystems, 
+entre o bem-estar dos seres humanos, dos animais e dos ecossistemas,
 
 27
 00:01:47,040 --> 00:01:50,040
-data shared through GBIF helps us
+os dados partilhados através do GBIF ajuda-nos
 
 28
 00:01:50,040 --> 00:01:53,440
-understand and prepare for potential disease risks, 
+a compreender e a preparar para potenciais riscos de doenças,
 
 29
 00:01:53,440 --> 00:01:57,040
-reducing the many costs of future disease outbreaks 
+reduzindo os muitos custos de futuros surtos de doença
 
 30
 00:01:57,040 --> 00:01:59,840
-to keep people and the planet healthy.
+para manter as pessoas e o planeta saudáveis.
 
 31
 00:02:00,480 --> 00:02:01,960
-To learn more about the connections
+Para saber mais sobre as ligações
 
 32
 00:02:01,960 --> 00:02:06,720
-GBIF reveals between biodiversity and human health
+que o GBIF revela entre a biodiversidade e a saúde humana
 
 33
 00:02:06,720 --> 00:02:09,500
-visit www.gbif.org/health
+visite www.gbif.org/health
 
