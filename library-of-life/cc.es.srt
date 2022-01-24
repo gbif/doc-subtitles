@@ -36,7 +36,7 @@ La mayoría de los datos que dan origen a toda esta información,
 
 8
 00:00:33,280 --> 00:00:36,840
-Most of the data behind all this information
+La mayoría de los datos detrás de toda esta información
 
 9
 00:00:36,840 --> 00:00:39,840
@@ -172,7 +172,7 @@ y recibir reconocimiento público por sus contribuciones.
 
 37
 00:02:11,460 --> 00:02:13,840
-GBIF also makes it possible
+GBIF también lo hace posible
 
 38
 00:02:13,840 --> 00:02:15,740
@@ -204,11 +204,11 @@ para garantizar la calidad de los datos y su acceso abierto.
 
 43
 00:02:28,480 --> 00:02:31,200
-through all phases of the data publishing process
+a través de todas las fases del proceso de publicación de datos
 
 44
 00:02:31,200 --> 00:02:33,900
-to guarantee high-quality data, that are open and accessible.
+para garantizar datos de alta calidad, abiertos y accesibles.
 
 45
 00:02:34,880 --> 00:02:38,300
