@@ -84,7 +84,7 @@ e incluso predicen sitios de propagación de enfermedades.
 
 22
 00:01:25,680 --> 00:01:30,080
-In 2018, an analysis using data from the GBIF network 
+En 2018, un análisis utilizando datos de la red GBIF
 
 23
 00:01:30,080 --> 00:01:34,880
