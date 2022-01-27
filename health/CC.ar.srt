@@ -8,67 +8,67 @@
 
 3
 00:00:14,500 --> 00:00:18,000
-to the well-being of ecosystems and other species.
+الی مدی رفاهية النظم البيئية والأنواع الأخرى.
 
 4
 00:00:18,960 --> 00:00:21,600
-The World Health Organization estimates that 
+قدرت منظمة الصحة العالمية أن 
 
 5
 00:00:21,600 --> 00:00:26,240
-60 percent of all infectious diseases originate among different animals. 
+60% من جميع الأمراض المعدية تنشأ بين مختلف الحيوانات
 
 6
 00:00:27,200 --> 00:00:31,760
-Knowing where the species that transmit disease-causing pathogens occur 
+معرفة أين تقع كل أنواع الحيوانات المختلفة الناقلة لمسببات الأمراض المعدية
 
 7
 00:00:31,760 --> 00:00:36,880
-is important for recognizing, managing, and preventing potential health threats.
+مهم للتعرف على التهديدات الصحية المحتملة وإدارتها والوقاية منها.
 
 8
 00:00:37,520 --> 00:00:41,520
-With data shared through the Global Biodiversity Information Facility,
+باستخدام البيانات التي تم مشاركتها من خلال المرفق العالمي لمعلومات التنوع البيولوجي
 
 9
 00:00:41,520 --> 00:00:43,120
-or GBIF, 
+أو GBIF،
 
 10
 00:00:43,120 --> 00:00:46,160
-scientists and researchers from various disciplines 
+استطاع العلماء والباحثون من مختلف التخصصات
 
 11
 00:00:46,160 --> 00:00:49,840
-map the species involved in cycles of disease transmission 
+برسم خريطة للأنواع المشاركة في دورات انتقال الأمرض
 
 12
 00:00:49,840 --> 00:00:52,280
-and how their distributions are changing.
+وكيف يتغير توزيعها.
 
 13
 00:00:52,840 --> 00:00:55,280
-Such data offers an essential element in
+توفر هذه البيانات عنصرًا أساسيًا في
 
 14
 00:00:55,280 --> 00:00:58,160
-understanding zoonotic and vector-borne diseases 
+فهم الأمراض الحيوانية والأمراض المنقولة عن طريق ناقلات الأمراض
 
 15
 00:00:58,720 --> 00:01:01,920
-and identifying areas at risk of potential outbreaks. 
+وتحديد المناطق المعرضة لخطر تفشي الأمراض
 
 16
 00:01:02,960 --> 00:01:07,720
-Policymakers and public health officials can use the resulting insights
+ويمكن لواضعي السياسات وموظفي الصحة العامة أن يستعملوا الرؤى الناتجة عن ذلك
 
 17
 00:01:07,720 --> 00:01:12,800
-to prepare responses, focus surveillance and allocate resources
+لإعداد الاستجابات، وتركيز المراقبة وتخصيص الموارد
 
 18
 00:01:12,800 --> 00:01:15,440
-to protect people’s lives and livelihoods.
+لحماية حياة الناس وسبل عيشهم.
 
 19
 00:01:16,080 --> 00:01:19,680
