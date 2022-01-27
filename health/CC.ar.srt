@@ -72,31 +72,31 @@
 
 19
 00:01:16,080 --> 00:01:19,680
-When combined with climatic and environmental information, 
+وعند جمع ذلك مع المعلومات المناخية والبيئية،
 
 20
 00:01:19,680 --> 00:01:22,680
-GBIF-mediated data sometimes reveals
+تكشف بيانات GBIF أحيانًا
 
 21
 00:01:22,680 --> 00:01:25,120
-and even predicts sites of disease spillover. 
+او حتى تتنبأ بمواقع انتشار المرض.
 
 22
 00:01:25,680 --> 00:01:30,080
-In 2018, an analysis using data from the GBIF network 
+في عام 2018، تحليل باستخدام بيانات من شبكة GBIF
 
 23
 00:01:30,080 --> 00:01:34,880
-identified a high-risk hotspot for the Nipah virus outbreak in southern India
+استطاع ان يحدد نقطة ساخنة عالية الخطورة لتفشي فيروس نيباه في جنوب الهند
 
 24
 00:01:34,880 --> 00:01:36,800
-just before the disease emerged there.
+قبل ظهور المرض هناك مباشرة.
 
 25
 00:01:37,440 --> 00:01:39,480
-By contributing to a "One Health" approach 
+من خلال المساهمة في نهج "الصحة الواحدة"
 
 26
 00:01:39,480 --> 00:01:42,480
