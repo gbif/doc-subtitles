@@ -1,6 +1,6 @@
 1
 00:00:06,640 --> 00:00:10,240
-أحد مسببات الأمراض الصغيرة قد ذكّرنا جميعا بما يلي
+أحد مسببات الأمراض الصغيرة قد ذكّرنا جميعا ب
 
 2
 00:00:10,240 --> 00:00:14,500
@@ -100,37 +100,37 @@
 
 26
 00:01:39,480 --> 00:01:42,480
-that recognizes the intimate connection 
+الذي يعترف بالاتصال الحميم
 
 26
 00:01:42,480 --> 00:01:47,040
-between the well-being of humans, animals, and ecosystems, 
+بين رفاهية البشر والحيوانات والنظم البيئية
 
 27
 00:01:47,040 --> 00:01:50,040
-data shared through GBIF helps us
+البيانات التي يتم مشاركتها من خلال GBIF تساعدنا
 
 28
 00:01:50,040 --> 00:01:53,440
-understand and prepare for potential disease risks, 
+في فهم المخاطر المحتملة للأمراض والتأهب لها،
 
 29
 00:01:53,440 --> 00:01:57,040
-reducing the many costs of future disease outbreaks 
+الحد من التكاليف العديدة لتفشي الأمراض في المستقبل
 
 30
 00:01:57,040 --> 00:01:59,840
-to keep people and the planet healthy.
+للحفاظ على صحة الناس والكوكب
 
 31
 00:02:00,480 --> 00:02:01,960
-To learn more about the connections
+لمعرفة المزيد عن الاتصالات
 
 32
 00:02:01,960 --> 00:02:06,720
-GBIF reveals between biodiversity and human health
+التي تكشفها GBIF بين التنوع البيولوجي وصحة الانسان
 
 33
 00:02:06,720 --> 00:02:09,500
-visit www.gbif.org/health
+زيارة الموقع www.gbif.org/health
 
