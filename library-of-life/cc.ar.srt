@@ -1,106 +1,106 @@
 1
 00:00:06,395 --> 00:00:09,535
-For centuries, we have studied the great variety of species
+منذ قرون، درسنا التنوع الكبير للأنواع
 
 2
 00:00:09,540 --> 00:00:11,840
-that inhabit the planet in order to understand
+التي تسكن الكوكب من أجل أن نفهم
 
 3
 00:00:11,840 --> 00:00:15,240
-how nature’s dynamics work.
+كيف تعمل ديناميكيات الطبيعة.
 
 4
 00:00:17,820 --> 00:00:20,935
-Thousands of institutions and people around the world have invested
+آلاف المؤسسات والأشخاص في جميع أنحاء العالم قد استثمروا
 
 5
 00:00:20,935 --> 00:00:24,045
-in efforts to generate knowledgeand make it visible
+في محاولة لصنع المعرفة وجعلها مرئية
 
 6
 00:00:24,045 --> 00:00:26,925
-through millions of publications that
+من خلال ملايين المنشورات التي
 
 7
 00:00:26,925 --> 00:00:30,940
-that we can now simply find by typing the word "biodiversity".
+يمكننا الآن أن نجدها ببساطة عن طريق كتابة كلمة "التنوع البيولوجي".
 
 8
 00:00:33,280 --> 00:00:36,840
-Most of the data behind all this information
+معظم البيانات الكامنة وراء كل هذه المعلومات
 
 9
 00:00:36,840 --> 00:00:39,840
-is scattered and not very accessible.
+مبعثرة ولا يمكن الوصول إليها.
 
 10
 00:00:40,580 --> 00:00:43,955
-This data gains value when it is available
+هذه البيانات تكون قيمة عندما تكون متاحة
 
 11
 00:00:43,960 --> 00:00:46,160
-for analysis, use and reuse,
+لأغراض التحليل والاستخدام وإعادة الاستخدام،
 
 12
 00:00:46,160 --> 00:00:49,360
-serving as an essential foundation for creating and improving knowledge.
+وتخدم كأساس ضروري لخلق المعرفة وتحسينها.
 
 13
 00:00:50,920 --> 00:00:53,900
-Can you imagine how much knowledge could be generated
+هل يمكنك تخيل مقدار المعرفة التي يمكن إنتاجها
 
 14
 00:00:53,900 --> 00:00:57,160
-if more people could find and make use of this data
+إذا تمكن المزيد من الاشخاص من العثور على هذه البيانات والاستفادة منها
 
 15
 00:00:57,160 --> 00:00:59,500
-in an organized, accessible way?
+بطريقة منظمة وميسرة؟
 
 16
 00:01:00,980 --> 00:01:04,540
-The Global Biodiversity Information Facility
+المرفق العالمي لمعلومات التنوع الحيوي "جبيف"
 
 17
 00:01:04,540 --> 00:01:07,340
-GBIF is a network of governments and organizations
+هو شبكة من الحكومات والمنظمات
 
 18
 00:01:07,340 --> 00:01:09,660
-that enables the publication of data
+التي تمكن من نشر البيانات
 
 19
 00:01:09,660 --> 00:01:12,280
-and shares it with the world,
+وتقاسمها مع العالم،
 
 20
 00:01:12,280 --> 00:01:14,680
-making information about biodiversity
+وجعل المعلومات عن التنوع البيولوجي
 
 21
 00:01:14,680 --> 00:01:17,740
-available online for researchers and citizens,
+متاحة على الإنترنت للباحثين والمواطنين،
 
 22
 00:01:17,740 --> 00:01:19,740
-regardless of their location.
+بغض النظر عن موقعهم.
 
 23
 00:01:21,220 --> 00:01:23,100
-In response to recommendations
+استجابةً للتوصيات
 
 24
 00:01:23,100 --> 00:01:25,320
-from international agreements and conventions,
+من الاتفاقيات والمعاهدات الدولية،
 
 25
 00:01:25,320 --> 00:01:28,720
-GBIF includes dozens of participating countries
+يشمل "جبيف" العشرات من الدول المشاركة
 
 26
 00:01:28,720 --> 00:01:30,760
-and nearly 2,000 publishers,
+وما يقرب من 2000 ناشر
 
 27
 00:01:30,760 --> 00:01:34,720
