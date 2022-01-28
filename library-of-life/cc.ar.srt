@@ -104,101 +104,101 @@
 
 27
 00:01:30,760 --> 00:01:34,720
-bringing together a global scale data infrastructure for the natural world
+والجمع بين البيانات على نطاق عالمي لصنع قاعدة بيانات عن العالم الطبيعي
 
 28
 00:01:34,720 --> 00:01:37,520
-that informs the sustainable use of biodiversity
+والتي يسترشد بها في الاستخدام المستدام للتنوع البيولوجي
 
 29
 00:01:37,520 --> 00:01:40,680
-and contributes to improving people’s quality of life.
+ويساهم في تحسين نوعية حياة الناس.
 
 30
 00:01:45,420 --> 00:01:47,800
-GBIF allows you to share the data that you capture,
+يسمح لك "جبيف" بمشاركة البيانات التي تلتقطها،
 
 31
 00:01:47,800 --> 00:01:51,600
-organize, standardize and publish,
+التنظيم والتوحيد والنشر،
 
 32
 00:01:52,700 --> 00:01:56,600
-contributing to research, education and decision-making
+و المساهمة في البحث والتعليم وصنع القرار
 
 33
 00:01:56,600 --> 00:02:00,060
-and expanding the knowledge we have about our environment.
+وتوسيع نطاق المعرفة التي لدينا بشأن بيئتنا.
 
 34
 00:02:01,060 --> 00:02:04,635
-Data publishers can choose the type of use and attribution
+يمكن لناشري البيانات اختيار نوع الاستخدام والإسناد
 
 35
 00:02:04,640 --> 00:02:06,340
-that they want for their data
+التي يريدونها لبياناتهم
 
 36
 00:02:06,340 --> 00:02:09,680
-and receive public recognition for their contributions.
+والحصول على تقدير واعتراف العامة لمساهماتهم.
 
 37
 00:02:11,460 --> 00:02:13,840
-GBIF also makes it possible
+"جيبف" ايضاً جعله ممكن
 
 38
 00:02:13,840 --> 00:02:15,740
-for any citizen of the world, including you,
+لأي مواطن من مواطني العالم، بمن فيهم أنتم،
 
 39
 00:02:15,740 --> 00:02:19,000
-to access all the free and open data
+للوصول إلى جميع البيانات المجانية والمفتوحة
 
 40
 00:02:19,000 --> 00:02:21,760
-published through the network’s data portals.
+المنشورة من خلال بوابات البيانات الخاصة بالشبكة.
 
 41
 00:02:22,280 --> 00:02:26,200
-The nodes from each one of the participating countries
+العقود من كل بلد من البلدان المشاركة
 
 42
 00:02:26,200 --> 00:02:28,480
-advise and work with organizations
+يقدم المشورة إلى المنظمات والعمل معها
 
 43
 00:02:28,480 --> 00:02:31,200
-through all phases of the data publishing process
+خلال جميع مراحل عملية نشر البيانات
 
 44
 00:02:31,200 --> 00:02:33,900
-to guarantee high-quality data, that are open and accessible.
+لضمان توفر بيانات عالية الجودة، تكون مفتوحة ويمكن الوصول إليها.
 
 45
 00:02:34,880 --> 00:02:38,300
-We want you to be part of GBIF,
+نريدك أن تكون جزءاً من جبيف،
 
 46
 00:02:38,300 --> 00:02:42,080
-so that together we can build a sustainable future
+حتى نتمكن معًا من بناء مستقبل مستدام
 
 47
 00:02:42,080 --> 00:02:45,080
-in which biodiversity information is free and universally available
+حيث تكون معلومات التنوع البيولوجي مجانية ومتاحة عالميا
 
 48
 00:02:45,080 --> 00:02:47,240
-to science and society.
+إلى العلم والمجتمع.
 
 49
 00:02:50,220 --> 00:02:51,200
-To learn more about how to become part of
+لمعرفة المزيد حول كيفية أن تصبح جزءا من
 
 50
 00:02:51,200 --> 00:02:54,720
-this global biodiversity network,
+شبكة التنوع البيولوجي العالمية هذه،
 
 51
 00:02:54,720 --> 00:02:58,900
-visit www.gbif.org.
+زيارة الموقع www.gbif.org.
 
