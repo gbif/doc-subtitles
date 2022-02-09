@@ -1,6 +1,6 @@
 1
 00:00:06,395 --> 00:00:09,535
-何世紀もの間、地球に生息する
+何世紀もの間、地球上に生息する
 
 2
 00:00:09,540 --> 00:00:11,840
@@ -48,27 +48,27 @@
 
 13
 00:00:50,920 --> 00:00:53,900
-Can you imagine how much knowledge could be generated
+想像してみてください。もっと多くの人々が
 
 14
 00:00:53,900 --> 00:00:57,160
-if more people could find and make use of this data
+整理された状態のデータを利用できるなら
 
 15
 00:00:57,160 --> 00:00:59,500
-in an organized, accessible way?
+どれくらいの知識が生み出されることになるのか。
 
 16
 00:01:00,980 --> 00:01:04,540
-The Global Biodiversity Information Facility
+地球規模生物多様性情報機構（GBIF）は
 
 17
 00:01:04,540 --> 00:01:07,340
-GBIF is a network of governments and organizations
+政府および組織のネットワークであり
 
 18
 00:01:07,340 --> 00:01:09,660
-that enables the publication of data
+研究者や市民が所在に関わらず利用ができる
 
 19
 00:01:09,660 --> 00:01:12,280
