@@ -132,47 +132,47 @@ GBIFでは収集したデータを
 
 34
 00:02:01,060 --> 00:02:04,635
-Data publishers can choose the type of use and attribution
+データ出版者は公開するデータの
 
 35
 00:02:04,640 --> 00:02:06,340
-that they want for their data
+利用形態と帰属を選択することができ、
 
 36
 00:02:06,340 --> 00:02:09,680
-and receive public recognition for their contributions.
+貢献が公に認められるようになります。
 
 37
 00:02:11,460 --> 00:02:13,840
-GBIF also makes it possible
+世界中の誰でも、もちろんあなたも
 
 38
 00:02:13,840 --> 00:02:15,740
-for any citizen of the world, including you,
+GBIFのネットワークのデータポータルを通じて
 
 39
 00:02:15,740 --> 00:02:19,000
-to access all the free and open data
+公開されたフリーでオープンなデータ
 
 40
 00:02:19,000 --> 00:02:21,760
-published through the network’s data portals.
+にアクセスできます。
 
 41
 00:02:22,280 --> 00:02:26,200
-The nodes from each one of the participating countries
+各参加国のノードはデータ出版の
 
 42
 00:02:26,200 --> 00:02:28,480
-advise and work with organizations
+全てのプロセスにおいて組織に助言・協力し、
 
 43
 00:02:28,480 --> 00:02:31,200
-through all phases of the data publishing process
+オープンでアクセス可能な高品質のデータを
 
 44
 00:02:31,200 --> 00:02:33,900
-to guarantee high-quality data, that are open and accessible.
+保証できるように努めています。
 
 45
 00:02:34,880 --> 00:02:38,300
