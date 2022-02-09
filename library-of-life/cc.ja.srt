@@ -1,50 +1,50 @@
 1
 00:00:06,395 --> 00:00:09,535
-何世紀もの間、多様な生物種を研究してきました。
+何世紀もの間、地球に生息する
 
 2
 00:00:09,540 --> 00:00:11,840
-を理解するため、地球に生息する
+多様な生物種を研究してきました。
 
 3
 00:00:11,840 --> 00:00:15,240
-自然はどのような仕組みで成り立っているのか
+それは自然の仕組みを理解するためです。
 
 4
 00:00:17,820 --> 00:00:20,935
-Thousands of institutions and people around the world have invested
+世界中の何千もの機関と人々の努力により
 
 5
 00:00:20,935 --> 00:00:24,045
-in efforts to generate knowledgeand make it visible
+生み出された知識が
 
 6
 00:00:24,045 --> 00:00:26,925
-through millions of publications that
+何百万という出版物を通して見えるようになり、
 
 7
 00:00:26,925 --> 00:00:30,940
-that we can now simply find by typing the word "biodiversity".
+「生物多様性」のキーワードで探すことができます。
 
 8
 00:00:33,280 --> 00:00:36,840
-Most of the data behind all this information
+こういった情報の背景にあるデータは多くの場合、
 
 9
 00:00:36,840 --> 00:00:39,840
-is scattered and not very accessible.
+散在していてアクセスしにくい状況です。
 
 10
 00:00:40,580 --> 00:00:43,955
-This data gains value when it is available
+このデータに価値が付くのは
 
 11
 00:00:43,960 --> 00:00:46,160
-for analysis, use and reuse,
+分析、利用、再利用に使えるときであり
 
 12
 00:00:46,160 --> 00:00:49,360
-serving as an essential foundation for creating and improving knowledge.
+知識の創造と向上のための重要な基盤となります。
 
 13
 00:00:50,920 --> 00:00:53,900
