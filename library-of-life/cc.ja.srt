@@ -176,29 +176,29 @@ GBIFのネットワークのデータポータルを通じて
 
 45
 00:02:34,880 --> 00:02:38,300
-We want you to be part of GBIF,
+ぜひGBIFにご参加いただき、
 
 46
 00:02:38,300 --> 00:02:42,080
-so that together we can build a sustainable future
+科学と社会において生物多様性情報が
 
 47
 00:02:42,080 --> 00:02:45,080
-in which biodiversity information is free and universally available
+フリーで国際的に利用できる
 
 48
 00:02:45,080 --> 00:02:47,240
-to science and society.
+持続可能な未来を共に築いていきましょう。
 
 49
 00:02:50,220 --> 00:02:51,200
-To learn more about how to become part of
+この世界規模の生物多様性ネットワークへの
 
 50
 00:02:51,200 --> 00:02:54,720
-this global biodiversity network,
+参加方法の詳細については
 
 51
 00:02:54,720 --> 00:02:58,900
-visit www.gbif.org.
+www.gbif.org をご覧ください。
 
