@@ -124,13 +124,13 @@ GBIFを通じて共有されたデータは
 
 31
 00:02:00,480 --> 00:02:01,960
-To learn more about the connections
+GBIFが明らかにした
 
 32
 00:02:01,960 --> 00:02:06,720
-GBIF reveals between biodiversity and human health
+生物多様性と人間の健康の関係性については
 
 33
 00:02:06,720 --> 00:02:09,500
-visit www.gbif.org/health
+gbif.org/health をご覧ください。
 
