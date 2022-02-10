@@ -20,11 +20,11 @@
 
 6
 00:00:27,200 --> 00:00:31,760
-Knowing where the species that transmit disease-causing pathogens occur 
+病気の原因となる病原体を媒介する生物種がどこに出現したかを知ることは
 
 7
 00:00:31,760 --> 00:00:36,880
-is important for recognizing, managing, and preventing potential health threats.
+潜在的な健康リスクを認識し、管理、予防するために重要です。
 
 8
 00:00:37,520 --> 00:00:41,520
