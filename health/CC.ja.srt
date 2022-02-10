@@ -132,5 +132,5 @@ GBIFが明らかにした
 
 33
 00:02:06,720 --> 00:02:09,500
-gbif.org/health をご覧ください。
+www.gbif.org/health をご覧ください。
 
