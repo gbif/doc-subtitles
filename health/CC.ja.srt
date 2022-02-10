@@ -72,55 +72,55 @@
 
 19
 00:01:16,080 --> 00:01:19,680
-When combined with climatic and environmental information, 
+気候および環境情報と併せて利用することで
 
 20
 00:01:19,680 --> 00:01:22,680
-GBIF-mediated data sometimes reveals
+GBIFのデータは病気の拡散を明らかにしたり
 
 21
 00:01:22,680 --> 00:01:25,120
-and even predicts sites of disease spillover. 
+予測したりできる場合もあります。
 
 22
 00:01:25,680 --> 00:01:30,080
-In 2018, an analysis using data from the GBIF network 
+2018年、GBIFネットワークのデータを利用した分析により
 
 23
 00:01:30,080 --> 00:01:34,880
-identified a high-risk hotspot for the Nipah virus outbreak in southern India
+インド南部でニパウイルスの発生リスクの高い地域が明らかになり
 
 24
 00:01:34,880 --> 00:01:36,800
-just before the disease emerged there.
+直後にその場所で感染症が発生しました。
 
 25
 00:01:37,440 --> 00:01:39,480
-By contributing to a "One Health" approach 
+GBIFを通じて共有されたデータは
 
 26
 00:01:39,480 --> 00:01:42,480
-that recognizes the intimate connection 
+人間、動物、生態系の健全性が
 
 26
 00:01:42,480 --> 00:01:47,040
-between the well-being of humans, animals, and ecosystems, 
+密接につながることを認識する
 
 27
 00:01:47,040 --> 00:01:50,040
-data shared through GBIF helps us
+「ワンヘルス」のアプローチに貢献することで
 
 28
 00:01:50,040 --> 00:01:53,440
-understand and prepare for potential disease risks, 
+潜在的な疾病リスクの把握と対策に役立ち、
 
 29
 00:01:53,440 --> 00:01:57,040
-reducing the many costs of future disease outbreaks 
+人と地球の健全を維持する上で
 
 30
 00:01:57,040 --> 00:01:59,840
-to keep people and the planet healthy.
+将来の感染拡大によるコストを削減できるでしょう。
 
 31
 00:02:00,480 --> 00:02:01,960
