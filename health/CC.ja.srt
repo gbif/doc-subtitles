@@ -1,22 +1,22 @@
 1
 00:00:06,640 --> 00:00:10,240
-A tiny pathogen has reminded us all of
+小さな病原体に私たちは気付かされました。
 
 2
 00:00:10,240 --> 00:00:14,500
-how vulnerable and how deeply connected human health is
+人間の健康がいかに脆弱で、生態系や生物種の健全さと
 
 3
 00:00:14,500 --> 00:00:18,000
-to the well-being of ecosystems and other species.
+いかに深く結びついているかということです。
 
 4
 00:00:18,960 --> 00:00:21,600
-The World Health Organization estimates that 
+世界保健機構（WHO）は全ての感染症のうち
 
 5
 00:00:21,600 --> 00:00:26,240
-60 percent of all infectious diseases originate among different animals. 
+60%が動物由来であると推定しました。
 
 6
 00:00:27,200 --> 00:00:31,760
