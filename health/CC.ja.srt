@@ -28,47 +28,47 @@
 
 8
 00:00:37,520 --> 00:00:41,520
-With data shared through the Global Biodiversity Information Facility,
+地球規模生物多様性情報機構、通称GBIF（ジービフ）で
 
 9
 00:00:41,520 --> 00:00:43,120
-or GBIF, 
+共有されたデータを元に
 
 10
 00:00:43,120 --> 00:00:46,160
-scientists and researchers from various disciplines 
+様々な分野の科学者や研究者が
 
 11
 00:00:46,160 --> 00:00:49,840
-map the species involved in cycles of disease transmission 
+病気の感染サイクルに関わる生物種とその分布が
 
 12
 00:00:49,840 --> 00:00:52,280
-and how their distributions are changing.
+どのように変化したかをマッピングしています。
 
 13
 00:00:52,840 --> 00:00:55,280
-Such data offers an essential element in
+このようなデータは人獣共通感染症やベクター媒介性疾患を理解し、
 
 14
 00:00:55,280 --> 00:00:58,160
-understanding zoonotic and vector-borne diseases 
+潜在的に感染拡大のリスクがある地域を特定する上で
 
 15
 00:00:58,720 --> 00:01:01,920
-and identifying areas at risk of potential outbreaks. 
+不可欠な要素となっています。
 
 16
 00:01:02,960 --> 00:01:07,720
-Policymakers and public health officials can use the resulting insights
+政策立案者や公衆衛生担当者は得られた知見を活用することで
 
 17
 00:01:07,720 --> 00:01:12,800
-to prepare responses, focus surveillance and allocate resources
+人々の命と生活を守るための対策の準備、
 
 18
 00:01:12,800 --> 00:01:15,440
-to protect people’s lives and livelihoods.
+監視の重点化、資源の分配を行うことができます。
 
 19
 00:01:16,080 --> 00:01:19,680
