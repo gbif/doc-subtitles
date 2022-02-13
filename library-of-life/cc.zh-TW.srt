@@ -88,111 +88,111 @@
 
 23
 00:01:21,220 --> 00:01:23,100
-In response to recommendations
+基於國際公約及會議的建議
 
 24
 00:01:23,100 --> 00:01:25,320
-from international agreements and conventions,
+基於國際公約及會議的建議
 
 25
 00:01:25,320 --> 00:01:28,720
-GBIF includes dozens of participating countries
+GBIF 包含數十個國家會員
 
 26
 00:01:28,720 --> 00:01:30,760
-and nearly 2,000 publishers,
+以及將近二千個資料發布機構
 
 27
 00:01:30,760 --> 00:01:34,720
-bringing together a global scale data infrastructure for the natural world
+建立了促進生物多樣性永續經營
 
 28
 00:01:34,720 --> 00:01:37,520
-that informs the sustainable use of biodiversity
+且能改善人們生活的
 
 29
 00:01:37,520 --> 00:01:40,680
-and contributes to improving people’s quality of life.
+全球性資料基礎建設
 
 30
 00:01:45,420 --> 00:01:47,800
-GBIF allows you to share the data that you capture,
+GBIF 讓您能分享已獲取的資料
 
 31
 00:01:47,800 --> 00:01:51,600
-organize, standardize and publish,
+根據資料標準整理、標準化並發布
 
 32
 00:01:52,700 --> 00:01:56,600
-contributing to research, education and decision-making
+以便貢獻在研究、教育及決策方面
 
 33
 00:01:56,600 --> 00:02:00,060
-and expanding the knowledge we have about our environment.
+更加拓展我們對於環境的認識
 
 34
 00:02:01,060 --> 00:02:04,635
-Data publishers can choose the type of use and attribution
+資料發布機構能決定所發布的資料
 
 35
 00:02:04,640 --> 00:02:06,340
-that they want for their data
+應如何使用及引用歸功
 
 36
 00:02:06,340 --> 00:02:09,680
-and receive public recognition for their contributions.
+他們的貢獻並因此能得到公眾認同
 
 37
 00:02:11,460 --> 00:02:13,840
-GBIF also makes it possible
+GBIF 也使得
 
 38
 00:02:13,840 --> 00:02:15,740
-for any citizen of the world, including you,
+包含您在內的世界公民
 
 39
 00:02:15,740 --> 00:02:19,000
-to access all the free and open data
+能自由取用透過資料入口網
 
 40
 00:02:19,000 --> 00:02:21,760
-published through the network’s data portals.
+所發布的所有開放資料
 
 41
 00:02:22,280 --> 00:02:26,200
-The nodes from each one of the participating countries
+各個會員國的節點
 
 42
 00:02:26,200 --> 00:02:28,480
-advise and work with organizations
+在資料發布的各個階段
 
 43
 00:02:28,480 --> 00:02:31,200
-through all phases of the data publishing process
+指導各個機構並相互合作
 
 44
 00:02:31,200 --> 00:02:33,900
-to guarantee high-quality data, that are open and accessible.
+以保證資料的品質並能開放取用
 
 45
 00:02:34,880 --> 00:02:38,300
-We want you to be part of GBIF,
+我們想要您成為 GBIF 的一部分
 
 46
 00:02:38,300 --> 00:02:42,080
-so that together we can build a sustainable future
+一起來建設永續的未來
 
 47
 00:02:42,080 --> 00:02:45,080
-in which biodiversity information is free and universally available
+對於科學及社會
 
 48
 00:02:45,080 --> 00:02:47,240
-to science and society.
+生物多樣性資訊可自由並不受限制地取用
 
 49
 00:02:50,220 --> 00:02:51,200
-To learn more about how to become part of
+要瞭解更多關於如何
 
 50
 00:02:51,200 --> 00:02:54,720
