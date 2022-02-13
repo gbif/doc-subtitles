@@ -1,58 +1,58 @@
 1
 00:00:06,640 --> 00:00:10,240
-A tiny pathogen has reminded us all of
+一個小小的病原體已經提醒我們所有人
 
 2
 00:00:10,240 --> 00:00:14,500
-how vulnerable and how deeply connected human health is
+人類的健康有多麼地脆弱
 
 3
 00:00:14,500 --> 00:00:18,000
-to the well-being of ecosystems and other species.
+且與生態系、其它物種的健康息息相關
 
 4
 00:00:18,960 --> 00:00:21,600
-The World Health Organization estimates that 
+世界衛生組織估計
 
 5
 00:00:21,600 --> 00:00:26,240
-60 percent of all infectious diseases originate among different animals. 
+百分之 60 的傳染病源自不同的動物
 
 6
 00:00:27,200 --> 00:00:31,760
-Knowing where the species that transmit disease-causing pathogens occur 
+瞭解能傳播疾病病原的物種
 
 7
 00:00:31,760 --> 00:00:36,880
-is important for recognizing, managing, and preventing potential health threats.
+對於辨認、管理及潛在的健康威脅十分重要
 
 8
 00:00:37,520 --> 00:00:41,520
-With data shared through the Global Biodiversity Information Facility,
+有了全球生物多樣性資訊機構（GBIF）上共享的資料
 
 9
 00:00:41,520 --> 00:00:43,120
-or GBIF, 
+ 
 
 10
 00:00:43,120 --> 00:00:46,160
-scientists and researchers from various disciplines 
+各個不同領域的科學家及研究人員
 
 11
 00:00:46,160 --> 00:00:49,840
-map the species involved in cycles of disease transmission 
+找出疾病傳染途徑中的相關物種
 
 12
 00:00:49,840 --> 00:00:52,280
-and how their distributions are changing.
+並查出物種分布的改變情況
 
 13
 00:00:52,840 --> 00:00:55,280
-Such data offers an essential element in
+這些資料是
 
 14
 00:00:55,280 --> 00:00:58,160
-understanding zoonotic and vector-borne diseases 
+瞭解動物及宿主疾病傳播
 
 15
 00:00:58,720 --> 00:01:01,920
