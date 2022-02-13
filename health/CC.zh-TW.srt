@@ -56,81 +56,81 @@
 
 15
 00:00:58,720 --> 00:01:01,920
-and identifying areas at risk of potential outbreaks. 
+和找出有潛在爆發地點區域的必要元素
 
 16
 00:01:02,960 --> 00:01:07,720
-Policymakers and public health officials can use the resulting insights
+決策者及公共衛生官員可以利用從資料得到的洞見
 
 17
 00:01:07,720 --> 00:01:12,800
-to prepare responses, focus surveillance and allocate resources
+準備應對、專注監控及分配資源
 
 18
 00:01:12,800 --> 00:01:15,440
-to protect people’s lives and livelihoods.
+以保護人們的生命及生計
 
 19
 00:01:16,080 --> 00:01:19,680
-When combined with climatic and environmental information, 
+與氣候及環境資訊結合時
 
 20
 00:01:19,680 --> 00:01:22,680
-GBIF-mediated data sometimes reveals
+經由 GBIF 流通的資料有時能顯示
 
 21
 00:01:22,680 --> 00:01:25,120
-and even predicts sites of disease spillover. 
+甚至能預測疫情的發生
 
 22
 00:01:25,680 --> 00:01:30,080
-In 2018, an analysis using data from the GBIF network 
+2018 年的一份分析使用 GBIF 網路中的資料
 
 23
 00:01:30,080 --> 00:01:34,880
-identified a high-risk hotspot for the Nipah virus outbreak in southern India
+恰好在疫情爆發前
 
 24
 00:01:34,880 --> 00:01:36,800
-just before the disease emerged there.
+辨識出一個立百病毒位於南印度的高危險熱點
 
 25
 00:01:37,440 --> 00:01:39,480
-By contributing to a "One Health" approach 
+藉由貢獻「健康一體」的做法
 
 26
 00:01:39,480 --> 00:01:42,480
-that recognizes the intimate connection 
+體認到存在於人類、動物及生態系統間
 
 26
 00:01:42,480 --> 00:01:47,040
-between the well-being of humans, animals, and ecosystems, 
+緊密的連結
 
 27
 00:01:47,040 --> 00:01:50,040
-data shared through GBIF helps us
+經由 GBIF 分享的資料幫助我們
 
 28
 00:01:50,040 --> 00:01:53,440
-understand and prepare for potential disease risks, 
+瞭解並且準備好應對潛在的疾病風險
 
 29
 00:01:53,440 --> 00:01:57,040
-reducing the many costs of future disease outbreaks 
+降低應付未來疾病疫情的許多成本
 
 30
 00:01:57,040 --> 00:01:59,840
-to keep people and the planet healthy.
+保護人們及地球的健康
 
 31
 00:02:00,480 --> 00:02:01,960
-To learn more about the connections
+要瞭解 GBIF 所顯現的
 
 32
 00:02:01,960 --> 00:02:06,720
-GBIF reveals between biodiversity and human health
+生物多樣性及人體健康的連結
 
 33
 00:02:06,720 --> 00:02:09,500
-visit www.gbif.org/health
+請造訪 www.gbif.org/health
 
