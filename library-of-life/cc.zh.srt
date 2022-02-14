@@ -88,11 +88,11 @@ GBIF是一个由政府机构和非政府组织形成的平台
 
 23
 00:01:21,220 --> 00:01:23,100
-In response to recommendations
+根据国际协定
 
 24
 00:01:23,100 --> 00:01:25,320
-from international agreements and conventions,
+和国际公约的建议，
 
 25
 00:01:25,320 --> 00:01:28,720
@@ -104,11 +104,11 @@ GBIF网络有几十个国家会员
 
 27
 00:01:30,760 --> 00:01:34,720
-bringing together a global scale data infrastructure for the natural world
+为自然界建立一个全球规模的数据基础设施，
 
 28
 00:01:34,720 --> 00:01:37,520
-that informs the sustainable use of biodiversity
+为生物多样性的可持续利用提供信息，
 
 29
 00:01:37,520 --> 00:01:40,680
@@ -132,71 +132,71 @@ GBIF可以让您共享您所获得的数据
 
 34
 00:02:01,060 --> 00:02:04,635
-Data publishers can choose the type of use and attribution
+数据发布者可以选择使用类型和属性
 
 35
 00:02:04,640 --> 00:02:06,340
-that they want for their data
+他们想要他们的数据
 
 36
 00:02:06,340 --> 00:02:09,680
-and receive public recognition for their contributions.
+并因其贡献而获得公众认可。 
 
 37
 00:02:11,460 --> 00:02:13,840
-GBIF also makes it possible
+GBIF还使
 
 38
 00:02:13,840 --> 00:02:15,740
-for any citizen of the world, including you,
+包括您在内的世界上的任何公民，
 
 39
 00:02:15,740 --> 00:02:19,000
-to access all the free and open data
+都有可能访问所有免费和开放的数据，
 
 40
 00:02:19,000 --> 00:02:21,760
-published through the network’s data portals.
+这些数据都是通过该网络的数据门户发布的。
 
 41
 00:02:22,280 --> 00:02:26,200
-The nodes from each one of the participating countries
+来自每个参与国的节点
 
 42
 00:02:26,200 --> 00:02:28,480
-advise and work with organizations
+提供建议并与各机构合作，
 
 43
 00:02:28,480 --> 00:02:31,200
-through all phases of the data publishing process
+这些都在数据发布过程的所有阶段
 
 44
 00:02:31,200 --> 00:02:33,900
-to guarantee high-quality data, that are open and accessible.
+以保证高质量的数据开放和可访问。
 
 45
 00:02:34,880 --> 00:02:38,300
-We want you to be part of GBIF,
+我们希望您成为GBIF的一员，
 
 46
 00:02:38,300 --> 00:02:42,080
-so that together we can build a sustainable future
+这样我们就可以共同建设一个可持续的未来，
 
 47
 00:02:42,080 --> 00:02:45,080
-in which biodiversity information is free and universally available
+在这个未来中，生物多样性信息可以免费和普遍地
 
 48
 00:02:45,080 --> 00:02:47,240
-to science and society.
+提供给科学和社会。
 
 49
 00:02:50,220 --> 00:02:51,200
-To learn more about how to become part of
+要了解有关如何成为其中一员的更多信息
 
 50
 00:02:51,200 --> 00:02:54,720
-this global biodiversity network,
+这个全球生物多样性网络，
 
 51
 00:02:54,720 --> 00:02:58,900
