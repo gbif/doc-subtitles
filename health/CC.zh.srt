@@ -1,86 +1,86 @@
 1
 00:00:06,640 --> 00:00:10,240
-A tiny pathogen has reminded us all of
+一种微小的病原体提醒我们所有人，
 
 2
 00:00:10,240 --> 00:00:14,500
-how vulnerable and how deeply connected human health is
+人类健康与生态系统和其它物种的福祉是多么脆弱，
 
 3
 00:00:14,500 --> 00:00:18,000
-to the well-being of ecosystems and other species.
+又是多么紧密地联系在一起。
 
 4
 00:00:18,960 --> 00:00:21,600
-The World Health Organization estimates that 
+世界卫生组织估计， 
 
 5
 00:00:21,600 --> 00:00:26,240
-60 percent of all infectious diseases originate among different animals. 
+60%的传染病起源于不同的动物。
 
 6
 00:00:27,200 --> 00:00:31,760
-Knowing where the species that transmit disease-causing pathogens occur 
+了解传播致病病原体的物种发生在何处，
 
 7
 00:00:31,760 --> 00:00:36,880
-is important for recognizing, managing, and preventing potential health threats.
+对于识别、管理和预防潜在的健康威胁至关重要。
 
 8
 00:00:37,520 --> 00:00:41,520
-With data shared through the Global Biodiversity Information Facility,
+通过全球生物多样性信息设施
 
 9
 00:00:41,520 --> 00:00:43,120
-or GBIF, 
+(GBIF)共享的数据，
 
 10
 00:00:43,120 --> 00:00:46,160
-scientists and researchers from various disciplines 
+来自不同学科的科学家和研究人员
 
 11
 00:00:46,160 --> 00:00:49,840
-map the species involved in cycles of disease transmission 
+绘制了疾病传播周期中涉及的物种
 
 12
 00:00:49,840 --> 00:00:52,280
-and how their distributions are changing.
+以及它们的分布如何变化的地图。
 
 13
 00:00:52,840 --> 00:00:55,280
-Such data offers an essential element in
+这些数据是
 
 14
 00:00:55,280 --> 00:00:58,160
-understanding zoonotic and vector-borne diseases 
+了解人畜共患病和病媒传播疾病
 
 15
 00:00:58,720 --> 00:01:01,920
-and identifying areas at risk of potential outbreaks. 
+以及确定有潜在暴发风险地区的基本要素。
 
 16
 00:01:02,960 --> 00:01:07,720
-Policymakers and public health officials can use the resulting insights
+决策者和公共卫生官员可以利用由此产生的见解
 
 17
 00:01:07,720 --> 00:01:12,800
-to prepare responses, focus surveillance and allocate resources
+来准备应对措施、集中监测和分配资源，
 
 18
 00:01:12,800 --> 00:01:15,440
-to protect people’s lives and livelihoods.
+以保护人们的生命和生计。
 
 19
 00:01:16,080 --> 00:01:19,680
-When combined with climatic and environmental information, 
+当与气候和环境信息相结合时，
 
 20
 00:01:19,680 --> 00:01:22,680
-GBIF-mediated data sometimes reveals
+GBIF介导的数据有时可以揭示
 
 21
 00:01:22,680 --> 00:01:25,120
-and even predicts sites of disease spillover. 
+甚至预测疾病溢出的地点。
 
 22
 00:01:25,680 --> 00:01:30,080
