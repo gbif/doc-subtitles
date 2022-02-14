@@ -84,53 +84,55 @@ GBIF介导的数据有时可以揭示
 
 22
 00:01:25,680 --> 00:01:30,080
-In 2018, an analysis using data from the GBIF network 
+2018 年，一项使用GBIF网络数据的分析
 
 23
 00:01:30,080 --> 00:01:34,880
-identified a high-risk hotspot for the Nipah virus outbreak in southern India
+确定了印度南部尼帕病毒暴发的高风险热点，
 
 24
 00:01:34,880 --> 00:01:36,800
-just before the disease emerged there.
+就在这种疾病在那里出现之前。
 
 25
 00:01:37,440 --> 00:01:39,480
-By contributing to a "One Health" approach 
+通过促进“同一个健康”方法，
 
 26
 00:01:39,480 --> 00:01:42,480
-that recognizes the intimate connection 
+这种方法认识到
 
 26
 00:01:42,480 --> 00:01:47,040
-between the well-being of humans, animals, and ecosystems, 
+人类、动物福祉与生态系统之间的密切联系，
 
 27
 00:01:47,040 --> 00:01:50,040
-data shared through GBIF helps us
+通过GBIF共享的数据有助于我们
 
 28
 00:01:50,040 --> 00:01:53,440
-understand and prepare for potential disease risks, 
+了解潜在的疾病风险并为之做好准备，
 
 29
 00:01:53,440 --> 00:01:57,040
-reducing the many costs of future disease outbreaks 
+减少未来疾病暴发的许多成本，
 
 30
 00:01:57,040 --> 00:01:59,840
-to keep people and the planet healthy.
+以保持人类和地球的健康。
 
 31
 00:02:00,480 --> 00:02:01,960
-To learn more about the connections
+欲了解更多
+
 
 32
 00:02:01,960 --> 00:02:06,720
-GBIF reveals between biodiversity and human health
+GBIF揭示的生物多样性与人类健康之间的联系，
+
 
 33
 00:02:06,720 --> 00:02:09,500
-visit www.gbif.org/health
+请访问www.gbif.org/health
 
