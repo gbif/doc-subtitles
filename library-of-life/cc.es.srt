@@ -1,0 +1,240 @@
+1
+00:00:06,395 --> 00:00:09,535
+Durante siglos, hemos estudiado la gran variedad
+
+2
+00:00:09,540 --> 00:00:11,840
+de especies que habitan el planeta
+
+3
+00:00:11,840 --> 00:00:15,240
+para poder comprender cómo funcionan las dinámicas de la naturaleza.
+
+4
+00:00:17,820 --> 00:00:20,935
+Miles de instituciones y personas en el mundo, han invertido 
+ 
+5
+00:00:20,935 --> 00:00:24,045
+esfuerzos para generar conocimiento y hacerlo visible
+
+5
+00:00:20,935 --> 00:00:24,045
+en esfuerzos para generar conocimiento y hacerlo visible
+
+6
+00:00:24,045 --> 00:00:26,925
+a través de millones de publicaciones que, hoy en día,
+
+7
+00:00:26,925 --> 00:00:30,940
+podemos conocer con sólo teclear la palabra “biodiversidad”.
+ 
+8
+00:00:33,280 --> 00:00:36,840
+La mayoría de los datos que dan origen a toda esta información,
+
+8
+00:00:33,280 --> 00:00:36,840
+La mayoría de los datos detrás de toda esta información
+
+9
+00:00:36,840 --> 00:00:39,840
+se encuentran dispersos y son poco accesibles.
+
+10
+00:00:40,580 --> 00:00:43,955
+Estos datos adquieren valor cuando se facilitan
+
+11
+00:00:43,960 --> 00:00:46,160
+para su análisis, uso y reuso,
+
+12
+00:00:46,160 --> 00:00:49,360
+siendo un capital vital para la generación de conocimiento.
+
+13
+00:00:50,920 --> 00:00:53,900
+¿Te imaginas cuánto conocimiento se podría generar
+
+14
+00:00:53,900 --> 00:00:57,160
+si más personas acceden y hacen uso de estos datos disponibles
+
+15
+00:00:57,160 --> 00:00:59,500
+de manera organizada y comprensible?
+ 
+16
+00:01:00,980 --> 00:01:04,540
+La Infraestructura Mundial de Información en Biodiversidad,
+
+16
+00:01:00,980 --> 00:01:04,540
+La Infraestructura Mundial de Información en Biodiversidad
+
+17
+00:01:04,540 --> 00:01:07,340
+o GBIF, es una red de gobiernos y organizaciones
+ 
+18
+00:01:07,340 --> 00:01:09,660
+que facilita la publicación de datos
+
+18
+00:01:07,340 --> 00:01:09,660
+que permite la publicación de datos
+
+19
+00:01:09,660 --> 00:01:12,280
+y pone a disposición de todo el mundo,
+
+20
+00:01:12,280 --> 00:01:14,680
+la información sobre diversidad biológica
+
+21
+00:01:14,680 --> 00:01:17,740
+que investigadores y ciudadanos comparten en línea
+
+22
+00:01:17,740 --> 00:01:19,740
+sin importar su ubicación geográfica.
+
+23
+00:01:21,220 --> 00:01:23,100
+En respuesta a las recomendaciones
+
+24
+00:01:23,100 --> 00:01:25,320
+de los convenios acordados entre naciones,
+
+25
+00:01:25,320 --> 00:01:28,720
+GBIF involucra a decenas de países participantes
+
+26
+00:01:28,720 --> 00:01:30,760
+y cerca de 2.000 publicadores,
+
+27
+00:01:30,760 --> 00:01:34,720
+consolidando la infraestructura más grande de datos de la naturaleza
+
+28
+00:01:34,720 --> 00:01:37,520
+que posibilita el uso sostenible de la biodiversidad
+
+29
+00:01:37,520 --> 00:01:40,680
+y la mejora de la calidad de vida de las personas.
+
+30
+00:01:45,420 --> 00:01:47,800
+GBIF te permite compartir en línea los datos
+
+31
+00:01:47,800 --> 00:01:51,600
+que captures, estandarizarlos y publicarlos,
+
+32
+00:01:52,700 --> 00:01:56,600
+para contribuir a la investigación, la educación, la toma de decisiones
+
+33
+00:01:56,600 --> 00:02:00,060
+y ampliar el conocimiento que tenemos sobre nuestro entorno.
+ 
+34
+00:02:01,060 --> 00:02:04,635
+Cada publicador puede seleccionar el tipo de uso y atribución
+
+34
+00:02:01,060 --> 00:02:04,635
+Los publicadores de datos pueden elegir el tipo de uso y atribución
+
+35
+00:02:04,640 --> 00:02:06,340
+que desee dar a su publicación
+ 
+36
+00:02:06,340 --> 00:02:09,680
+y obtener reconocimiento público por su aporte.
+ 
+37
+00:02:11,460 --> 00:02:13,840
+De igual forma, GBIF hace posible
+
+36
+00:02:06,340 --> 00:02:09,680
+y recibir reconocimiento público por sus contribuciones.
+
+37
+00:02:11,460 --> 00:02:13,840
+GBIF también lo hace posible
+
+38
+00:02:13,840 --> 00:02:15,740
+que cualquier ciudadano del mundo como tú,
+
+39
+00:02:15,740 --> 00:02:19,000
+pueda acceder a todos los datos publicados de forma libre y gratuita
+
+40
+00:02:19,000 --> 00:02:21,760
+a través de los portales de información.
+
+41
+00:02:22,280 --> 00:02:26,200
+Es a través de los nodos de cada uno de los países participantes,
+
+42
+00:02:26,200 --> 00:02:28,480
+que se asesora y acompaña a las organizaciones
+ 
+43
+00:02:28,480 --> 00:02:31,200
+en todas las fases del proceso de publicación
+ 
+44
+00:02:31,200 --> 00:02:33,900
+para garantizar la calidad de los datos y su acceso abierto.
+
+43
+00:02:28,480 --> 00:02:31,200
+a través de todas las fases del proceso de publicación de datos
+
+44
+00:02:31,200 --> 00:02:33,900
+para garantizar datos de alta calidad, abiertos y accesibles.
+
+45
+00:02:34,880 --> 00:02:38,300
+Queremos que formes parte de GBIF, y juntos construyamos
+
+46
+00:02:38,300 --> 00:02:42,080
+un mundo en el que la información sobre la biodiversidad
+
+47
+00:02:42,080 --> 00:02:45,080
+sea libre y disponible universalmente
+
+48
+00:02:45,080 --> 00:02:47,240
+para la ciencia, la sociedad y un futuro sostenible.
+
+49
+00:02:50,220 --> 00:02:51,200
+Para conocer más sobre cómo ser
+
+50
+00:02:51,200 --> 00:02:54,720
+parte de esta red mundial sobre biodiversidad,
+
+51
+00:02:54,720 --> 00:02:58,900
+ingresa a www.gbif.org/es.
+

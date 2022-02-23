@@ -1,0 +1,204 @@
+1
+00:00:06,395 --> 00:00:09,535
+Durante séculos, temos estudado a grande variedade
+
+2
+00:00:09,540 --> 00:00:11,840
+de espécies que habitam o planeta,
+
+3
+00:00:11,840 --> 00:00:15,240
+para compreender como funcionam as dinâmicas da natureza.
+
+4
+00:00:17,820 --> 00:00:20,935
+Milhares de instituições e pessoas no mundo inteiro têm feito
+
+5
+00:00:20,935 --> 00:00:24,045
+esforços para gerar conhecimento e torná-lo visível
+
+6
+00:00:24,045 --> 00:00:26,925
+através de milhões de publicações que, hoje em dia,
+
+7
+00:00:26,925 --> 00:00:30,940
+podemos encontrar simplesmente digitando a palavra "biodiversidade".
+
+8
+00:00:33,280 --> 00:00:36,840
+Na sua maioria, os dados que dão origem a toda esta informação
+
+9
+00:00:36,840 --> 00:00:39,840
+estão dispersos e pouco acessíveis.
+
+10
+00:00:40,580 --> 00:00:43,955
+Este dados ganham valor quando se facilita
+
+11
+00:00:43,960 --> 00:00:46,160
+a sua análise, utilização e reutilização,
+
+12
+00:00:46,160 --> 00:00:49,360
+sendo um capital vital para gerar e melhorar o conhecimento.
+
+13
+00:00:50,920 --> 00:00:53,900
+Consegues imaginar quanto conhecimento poderia ser gerado
+
+14
+00:00:53,900 --> 00:00:57,160
+se mais pessoas pudessem pesquisar e utilizar estes dados
+
+15
+00:00:57,160 --> 00:00:59,500
+de uma forma organizada e acessível?
+
+16
+00:01:00,980 --> 00:01:04,540
+O Sistema Global de Informação sobre a Biodiversidade,
+
+17
+00:01:04,540 --> 00:01:07,340
+ou GBIF, é uma rede de governos e organizações
+
+18
+00:01:07,340 --> 00:01:09,660
+que facilita a publicação de dados
+
+19
+00:01:09,660 --> 00:01:12,280
+e a sua partilha global, disponibilizando
+
+20
+00:01:12,280 --> 00:01:14,680
+informação sobre a diversidade biológica
+
+21
+00:01:14,680 --> 00:01:17,740
+que os investigadores e cidadãos partilham em linha,
+
+22
+00:01:17,740 --> 00:01:19,740
+independentemente da sua localização.
+
+23
+00:01:21,220 --> 00:01:23,100
+Em resposta às recomendações
+
+24
+00:01:23,100 --> 00:01:25,320
+de convenções e acordos internacionais,
+
+25
+00:01:25,320 --> 00:01:28,720
+o GBIF conta com a participação de dezenas de países
+
+26
+00:01:28,720 --> 00:01:30,760
+e quae dois mil publicadores,
+
+27
+00:01:30,760 --> 00:01:34,720
+formando uma das maiores infra-estruturas de dados sobre a natureza
+
+28
+00:01:34,720 --> 00:01:37,520
+que possibilita o uso sustentável da biodiversidade
+
+29
+00:01:37,520 --> 00:01:40,680
+e a melhoria da qualidade de vida das pessoas.
+
+30
+00:01:45,420 --> 00:01:47,800
+O GBIF permite-te partilhar em linha os dados
+
+31
+00:01:47,800 --> 00:01:51,600
+que captures, padronizá-los e publicá-los,
+
+32
+00:01:52,700 --> 00:01:56,600
+de modo a contribuir para a investigação científica, a educação, a tomada de decisões
+
+33
+00:01:56,600 --> 00:02:00,060
+e ampliar o conhecimento que temos sobre o nosso ambiente.
+
+34
+00:02:01,060 --> 00:02:04,635
+Cada publicador pode selecionar o tipo de uso e atribuição
+
+35
+00:02:04,640 --> 00:02:06,340
+que deseja dar à sua publicação
+
+36
+00:02:06,340 --> 00:02:09,680
+e obter o reconhecimento público pela sua contribuição.
+
+37
+00:02:11,460 --> 00:02:13,840
+De igual forma, o GBIF torna possível
+
+38
+00:02:13,840 --> 00:02:15,740
+que qualquer cidadão do mundo como tu,
+
+39
+00:02:15,740 --> 00:02:19,000
+possa aceder a todos os dados publicados de forma livre e gratuita
+
+40
+00:02:19,000 --> 00:02:21,760
+através dos portais de informação.
+
+41
+00:02:22,280 --> 00:02:26,200
+É através dos nós de cada um dos países participantes
+
+42
+00:02:26,200 --> 00:02:28,480
+que se aconselha e acompanha as organizações
+
+43
+00:02:28,480 --> 00:02:31,200
+em todas as fases do processo de publicação
+
+44
+00:02:31,200 --> 00:02:33,900
+para garantir a qualidade dos dados e o seu acesso aberto.
+
+45
+00:02:34,880 --> 00:02:38,300
+Queremos que formes parte do GBIF, e juntos construamos
+
+46
+00:02:38,300 --> 00:02:42,080
+um mundo em que a informação sobre a biodiversidade
+
+47
+00:02:42,080 --> 00:02:45,080
+esteja livre e disponível de modo universal
+
+48
+00:02:45,080 --> 00:02:47,240
+para a ciência, para a sociedade e para um futuro sustentável.
+
+49
+00:02:50,220 --> 00:02:51,200
+Para conhecer mais sobre como fazer
+
+50
+00:02:51,200 --> 00:02:54,720
+parte desta rede mundial sobre biodiversidade,
+
+51
+00:02:54,720 --> 00:02:58,900
+acede a www.gbif.org.
+

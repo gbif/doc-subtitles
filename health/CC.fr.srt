@@ -1,0 +1,136 @@
+1
+00:00:06,640 --> 00:00:10,240
+Un minuscule agent pathogène nous a tous rappelé
+
+2
+00:00:10,240 --> 00:00:14,500
+à quel point la santé humaine est vulnérable et profondément liée
+
+3
+00:00:14,500 --> 00:00:18,000
+au bien-être des écosystèmes et des autres espèces.
+
+4
+00:00:18,960 --> 00:00:21,600
+L'Organisation Mondiale de la Santé estime que
+
+5
+00:00:21,600 --> 00:00:26,240
+60 % de toutes les maladies infectieuses proviennent de différents animaux.
+
+6
+00:00:27,200 --> 00:00:31,760
+Savoir où se trouvent les espèces qui transmettent des pathogènes responsables de maladies
+
+7
+00:00:31,760 --> 00:00:36,880
+est important pour la reconnaissance, la gestion et la prévention des menaces potentielles pour la santé.
+
+8
+00:00:37,520 --> 00:00:41,520
+Grâce aux données partagées par le biais du Système mondial d’information sur la biodiversité,
+
+9
+00:00:41,520 --> 00:00:43,120
+ou GBIF,
+
+10
+00:00:43,120 --> 00:00:46,160
+les scientifiques et chercheurs de diverses disciplines
+
+11
+00:00:46,160 --> 00:00:49,840
+cartographient les espèces impliquées dans les cycles de transmission de maladie
+
+12
+00:00:49,840 --> 00:00:52,280
+et comment leurs distributions changent.
+
+13
+00:00:52,840 --> 00:00:55,280
+De telles données sont un élément essentiel pour
+
+14
+00:00:55,280 --> 00:00:58,160
+comprendre les maladies zoonotiques et vectorielles
+
+15
+00:00:58,720 --> 00:01:01,920
+et identifier des zones à risque d'épidémies potentielles.
+
+16
+00:01:02,960 --> 00:01:07,720
+Les responsables politiques et les responsables de la santé publique peuvent utiliser les informations qui en résultent
+
+17
+00:01:07,720 --> 00:01:12,800
+pour préparer des réponses, concentrer la surveillance et allouer des ressources
+
+18
+00:01:12,800 --> 00:01:15,440
+afin de protéger la vie et les moyens de subsistance de leurs populations.
+
+19
+00:01:16,080 --> 00:01:19,680
+Combinées avec des informations climatiques et environnementales,
+
+20
+00:01:19,680 --> 00:01:22,680
+les données accessibles via GBIF révèlent parfois
+
+21
+00:01:22,680 --> 00:01:25,120
+et peuvent même prédire les sites de propagation de maladies.
+
+22
+00:01:25,680 --> 00:01:30,080
+En 2018, une analyse utilisant des données du réseau GBIF
+
+23
+00:01:30,080 --> 00:01:34,880
+a identifié une zone à haut risque pour l'épidémie du virus de Nipah dans le sud de l'Inde
+
+24
+00:01:34,880 --> 00:01:36,800
+juste avant que la maladie n'émerge dans cette zone.
+
+25
+00:01:37,440 --> 00:01:39,480
+En contribuant à une approche "Une seule santé"
+
+26
+00:01:39,480 --> 00:01:42,480
+qui reconnaît la connexion intime
+
+26
+00:01:42,480 --> 00:01:47,040
+entre le bien-être des humains, des animaux et des écosystèmes,
+
+27
+00:01:47,040 --> 00:01:50,040
+les données partagées via GBIF nous aident
+
+28
+00:01:50,040 --> 00:01:53,440
+à comprendre et à se préparer aux risques potentiels de maladie,
+
+29
+00:01:53,440 --> 00:01:57,040
+réduisant ainsi les nombreux coûts d'épidémies futures
+
+30
+00:01:57,040 --> 00:01:59,840
+afin de maintenir les personnes et la planète en bonne santé.
+
+31
+00:02:00,480 --> 00:02:01,960
+Pour en apprendre plus sur les connexions
+
+32
+00:02:01,960 --> 00:02:06,720
+dévoilée via GBIF entre la biodiversité et la santé humaine
+
+33
+00:02:06,720 --> 00:02:09,500
+visitez www.gbif.org/health/fr
+

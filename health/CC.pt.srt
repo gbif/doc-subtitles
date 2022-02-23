@@ -1,0 +1,136 @@
+1
+00:00:06,640 --> 00:00:10,240
+Um agente patogénico minúsculo lembrou-nos a todos
+
+2
+00:00:10,240 --> 00:00:14,500
+o quão vulnerável e quão profundamente interligada é a saúde humana
+
+3
+00:00:14,500 --> 00:00:18,000
+com o bem-estar dos ecossistemas e das outras espécies.
+
+4
+00:00:18,960 --> 00:00:21,600
+A Organização Mundial de Saúde estima que
+
+5
+00:00:21,600 --> 00:00:26,240
+60% de todas as doenças infecciosas têm origem em animais diferentes.
+
+6
+00:00:27,200 --> 00:00:31,760
+Saber onde ocorrem as espécies que transmitem patogénicos causando doenças 
+
+7
+00:00:31,760 --> 00:00:36,880
+é importante para reconhecer, gerir e prevenir potenciais ameaças à saúde.
+
+8
+00:00:37,520 --> 00:00:41,520
+Com os dados partilhados através do Sistema Global de Informação sobre Biodiversidade,
+
+9
+00:00:41,520 --> 00:00:43,120
+ou GBIF,
+
+10
+00:00:43,120 --> 00:00:46,160
+cientistas e investgadores de várias disciplinas
+
+11
+00:00:46,160 --> 00:00:49,840
+mapeiam as espécies envolvidas em ciclos de transmissão de doenças
+
+12
+00:00:49,840 --> 00:00:52,280
+e como estão a mudar as suas distribuições.
+
+13
+00:00:52,840 --> 00:00:55,280
+Esses dados oferecem um elemento essencial na
+
+14
+00:00:55,280 --> 00:00:58,160
+compreensão de doenças zoonóticas e doenças transmitiras por vetores
+
+15
+00:00:58,720 --> 00:01:01,920
+e na identificação das áreas em risco para potenciais surtos.
+
+16
+00:01:02,960 --> 00:01:07,720
+Os legisladores e os responsáveis pela saúde pública podem utilizar os conhecimentos daí resultantes
+
+17
+00:01:07,720 --> 00:01:12,800
+para preparar respostas, vigilância de foco e alocar recursos
+
+18
+00:01:12,800 --> 00:01:15,440
+para proteger a vida e a subsistência das pessoas.
+
+19
+00:01:16,080 --> 00:01:19,680
+Quando combinada com informação climática e ambiental,
+
+20
+00:01:19,680 --> 00:01:22,680
+os dados mediados pelo GBIF às vezes revelam
+
+21
+00:01:22,680 --> 00:01:25,120
+e até mesmo prevêem locais de propagação de doenças.
+
+22
+00:01:25,680 --> 00:01:30,080
+Em 2018, uma análise usando dados da rede GBIF
+
+23
+00:01:30,080 --> 00:01:34,880
+identificou um hotspot de alto risco para o surto de vírus Nipah no sul da Índia
+
+24
+00:01:34,880 --> 00:01:36,800
+pouco antes da doença surgir.
+
+25
+00:01:37,440 --> 00:01:39,480
+Contribuindo para uma abordagem de "Uma Saúde"
+
+26
+00:01:39,480 --> 00:01:42,480
+que reconhece a ligação íntima
+
+26
+00:01:42,480 --> 00:01:47,040
+entre o bem-estar dos seres humanos, dos animais e dos ecossistemas,
+
+27
+00:01:47,040 --> 00:01:50,040
+os dados partilhados através do GBIF ajuda-nos
+
+28
+00:01:50,040 --> 00:01:53,440
+a compreender e a preparar para potenciais riscos de doenças,
+
+29
+00:01:53,440 --> 00:01:57,040
+reduzindo os muitos custos de futuros surtos de doença
+
+30
+00:01:57,040 --> 00:01:59,840
+para manter as pessoas e o planeta saudáveis.
+
+31
+00:02:00,480 --> 00:02:01,960
+Para saber mais sobre as ligações
+
+32
+00:02:01,960 --> 00:02:06,720
+que o GBIF revela entre a biodiversidade e a saúde humana
+
+33
+00:02:06,720 --> 00:02:09,500
+visite www.gbif.org/health
+
