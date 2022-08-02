@@ -48,15 +48,15 @@
 
 13
 00:00:52,840 --> 00:00:55,280
-Such data offers an essential element in
+Такі дані грають ключову роль у
 
 14
 00:00:55,280 --> 00:00:58,160
-understanding zoonotic and vector-borne diseases 
+розумінні проблем природно-осередкових і трансмісійних захворювань
 
 15
 00:00:58,720 --> 00:01:01,920
-and identifying areas at risk of potential outbreaks. 
+і виявленні областей, у яких є загроза спалаху.
 
 16
 00:01:02,960 --> 00:01:07,720
