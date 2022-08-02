@@ -12,19 +12,19 @@
 
 4
 00:00:18,960 --> 00:00:21,600
-The World Health Organization estimates that 
+За оцінками Всесвітньої організації охорони здоров’я 
 
 5
 00:00:21,600 --> 00:00:26,240
-60 percent of all infectious diseases originate among different animals. 
+60 відсотків усіх інфекційних захворювань походять від різних тварин. 
 
 6
 00:00:27,200 --> 00:00:31,760
-Knowing where the species that transmit disease-causing pathogens occur 
+Знання про те, де живуть види, що переносять хвороботворні патогени, 
 
 7
 00:00:31,760 --> 00:00:36,880
-is important for recognizing, managing, and preventing potential health threats.
+важливо, адже це дає змогу розпізнавати потенційні загрози для здоров’я, поратися з ними та запобігати їм.
 
 8
 00:00:37,520 --> 00:00:41,520
