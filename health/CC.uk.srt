@@ -8,7 +8,7 @@
 
 3
 00:00:14,500 --> 00:00:18,000
-благополуччям екосистем та інших видів.
+добробутом екосистем та інших видів.
 
 4
 00:00:18,960 --> 00:00:21,600
@@ -60,47 +60,47 @@
 
 16
 00:01:02,960 --> 00:01:07,720
-Policymakers and public health officials can use the resulting insights
+Посадові особи, що відповідають за прийняття рішень і охорону здоров’я, можуть використовувати ці результати аналізу
 
 17
 00:01:07,720 --> 00:01:12,800
-to prepare responses, focus surveillance and allocate resources
+для підготовки відповідей, зосередження засобів спостереження та розподілу ресурсів,
 
 18
 00:01:12,800 --> 00:01:15,440
-to protect people’s lives and livelihoods.
+щоб захищати життя та добробут людей.
 
 19
 00:01:16,080 --> 00:01:19,680
-When combined with climatic and environmental information, 
+У поєднанні з інформацією про стан клімату й довкілля 
 
 20
 00:01:19,680 --> 00:01:22,680
-GBIF-mediated data sometimes reveals
+дані, що містяться в GBIF, час від часу викривають
 
 21
 00:01:22,680 --> 00:01:25,120
-and even predicts sites of disease spillover. 
+або навіть передбачають регіони з підвищеними показниками захворюваності.
 
 22
 00:01:25,680 --> 00:01:30,080
-In 2018, an analysis using data from the GBIF network 
+У 2018 році аналіз даних із мережі GBIF виявив
 
 23
 00:01:30,080 --> 00:01:34,880
-identified a high-risk hotspot for the Nipah virus outbreak in southern India
+регіон на півдні Індії, у якому був високий ризик спалаху вірусу Німа
 
 24
 00:01:34,880 --> 00:01:36,800
-just before the disease emerged there.
+до того, як там почало ширитися захворювання.
 
 25
 00:01:37,440 --> 00:01:39,480
-By contributing to a "One Health" approach 
+Долучаючись до підходу «єдиної охорони здоров’я»,
 
 26
 00:01:39,480 --> 00:01:42,480
-that recognizes the intimate connection 
+що враховує тісний взаємозв’язок між
 
 26
 00:01:42,480 --> 00:01:47,040
