@@ -28,23 +28,23 @@
 
 8
 00:00:37,520 --> 00:00:41,520
-With data shared through the Global Biodiversity Information Facility,
+Обмінюючись даними через «Global Biodiversity Information Facility»,
 
 9
 00:00:41,520 --> 00:00:43,120
-or GBIF, 
+або GBIF, 
 
 10
 00:00:43,120 --> 00:00:46,160
-scientists and researchers from various disciplines 
+учені та дослідники з різних галузей і дисциплін
 
 11
 00:00:46,160 --> 00:00:49,840
-map the species involved in cycles of disease transmission 
+можуть складати карти видів, що входять у цикли передавання захворювань
 
 12
 00:00:49,840 --> 00:00:52,280
-and how their distributions are changing.
+і стежити за змінами в розподілі між цими видами.
 
 13
 00:00:52,840 --> 00:00:55,280
