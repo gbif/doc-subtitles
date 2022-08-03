@@ -144,61 +144,61 @@ GBIF надає змогу ділитися даними, які ви запис
 
 37
 00:02:11,460 --> 00:02:13,840
-GBIF also makes it possible
+До того ж завдяки GBIF
 
 38
 00:02:13,840 --> 00:02:15,740
-for any citizen of the world, including you,
+будь-який користувач із будь-якої точки світу, як-от ви,
 
 39
 00:02:15,740 --> 00:02:19,000
-to access all the free and open data
+має доступ до безкоштовних і відкритих даних,
 
 40
 00:02:19,000 --> 00:02:21,760
-published through the network’s data portals.
+опублікованих на порталах даних мережі.
 
 41
 00:02:22,280 --> 00:02:26,200
-The nodes from each one of the participating countries
+Осередки в кожній із країн-учасників
 
 42
 00:02:26,200 --> 00:02:28,480
-advise and work with organizations
+надають організаціям дорадчу допомогу та співпрацюють із ними
 
 43
 00:02:28,480 --> 00:02:31,200
-through all phases of the data publishing process
+на всіх етапах процесу публікування даних.
 
 44
 00:02:31,200 --> 00:02:33,900
-to guarantee high-quality data, that are open and accessible.
+Так ми забезпечуємо високу якість даних, що опиняються у відкритому доступі.
 
 45
 00:02:34,880 --> 00:02:38,300
-We want you to be part of GBIF,
+Ми хочемо, щоб ви були частиною GBIF
 
 46
 00:02:38,300 --> 00:02:42,080
-so that together we can build a sustainable future
+і щоб ми разом працювали над сталим розвитком майбутнього,
 
 47
 00:02:42,080 --> 00:02:45,080
-in which biodiversity information is free and universally available
+у якому інформація про біорізноманіття безкоштовна та доступна всім –
 
 48
 00:02:45,080 --> 00:02:47,240
-to science and society.
+і науковцям, і суспільству.
 
 49
 00:02:50,220 --> 00:02:51,200
-To learn more about how to become part of
+Докладніші відомості про те, як долучитися до
 
 50
 00:02:51,200 --> 00:02:54,720
-this global biodiversity network,
+цієї глобальної мережі з біорізноманіття,
 
 51
 00:02:54,720 --> 00:02:58,900
-visit www.gbif.org.
+наведено на сторінці www.gbif.org.
 
