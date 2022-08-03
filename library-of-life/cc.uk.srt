@@ -28,75 +28,75 @@
 
 8
 00:00:33,280 --> 00:00:36,840
-Most of the data behind all this information
+Більшість даних, на яких базується ця інформація,
 
 9
 00:00:36,840 --> 00:00:39,840
-is scattered and not very accessible.
+є розрізненими та важкодоступними.
 
 10
 00:00:40,580 --> 00:00:43,955
-This data gains value when it is available
+Ці дані несуть цінність, якщо вони доступні
 
 11
 00:00:43,960 --> 00:00:46,160
-for analysis, use and reuse,
+для аналізу, першого та повторного використання.
 
 12
 00:00:46,160 --> 00:00:49,360
-serving as an essential foundation for creating and improving knowledge.
+Це ключовий фундамент для добування та вдосконалення знань.
 
 13
 00:00:50,920 --> 00:00:53,900
-Can you imagine how much knowledge could be generated
+Уявіть, який обсяг знань можна буде добувати,
 
 14
 00:00:53,900 --> 00:00:57,160
-if more people could find and make use of this data
+якщо більше людей зможуть знаходити та використовувати ці дані
 
 15
 00:00:57,160 --> 00:00:59,500
-in an organized, accessible way?
+завдяки впорядкованому доступу?
 
 16
 00:01:00,980 --> 00:01:04,540
-The Global Biodiversity Information Facility
+Глобальна інформаційна система з біорізноманіття,
 
 17
 00:01:04,540 --> 00:01:07,340
-GBIF is a network of governments and organizations
+або GBIF, – це мережа з урядів і організацій,
 
 18
 00:01:07,340 --> 00:01:09,660
-that enables the publication of data
+що дає змогу публікувати дані
 
 19
 00:01:09,660 --> 00:01:12,280
-and shares it with the world,
+та надає доступ до них усьому світу.
 
 20
 00:01:12,280 --> 00:01:14,680
-making information about biodiversity
+Завдяки цьому до інформації про біорізноманіття
 
 21
 00:01:14,680 --> 00:01:17,740
-available online for researchers and citizens,
+отримують через Інтернет і дослідники, і звичайні користувачі,
 
 22
 00:01:17,740 --> 00:01:19,740
-regardless of their location.
+де б вони не перебували.
 
 23
 00:01:21,220 --> 00:01:23,100
-In response to recommendations
+Відповідно до рекомендацій, що містяться в
 
 24
 00:01:23,100 --> 00:01:25,320
-from international agreements and conventions,
+міжнародних угодах і конвенціях,
 
 25
 00:01:25,320 --> 00:01:28,720
-GBIF includes dozens of participating countries
+у GBIF входять десятки країн-учасників
 
 26
 00:01:28,720 --> 00:01:30,760
