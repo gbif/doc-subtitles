@@ -100,47 +100,47 @@
 
 26
 00:01:28,720 --> 00:01:30,760
-and nearly 2,000 publishers,
+і майже 2000 видавців даних.
 
 27
 00:01:30,760 --> 00:01:34,720
-bringing together a global scale data infrastructure for the natural world
+Це дає змогу об’єднати в глобальному масштабі інфраструктуру природознавчих даних,
 
 28
 00:01:34,720 --> 00:01:37,520
-that informs the sustainable use of biodiversity
+що обґрунтовують стале користування біорізноманіттям
 
 29
 00:01:37,520 --> 00:01:40,680
-and contributes to improving people’s quality of life.
+і сприяють покращенню якості людського життя.
 
 30
 00:01:45,420 --> 00:01:47,800
-GBIF allows you to share the data that you capture,
+GBIF надає змогу ділитися даними, які ви записуєте,
 
 31
 00:01:47,800 --> 00:01:51,600
-organize, standardize and publish,
+упорядковуєте, стандартизуєте та публікуєте,
 
 32
 00:01:52,700 --> 00:01:56,600
-contributing to research, education and decision-making
+роблячи свій внесок у дослідження, освіту та прийняття рішень
 
 33
 00:01:56,600 --> 00:02:00,060
-and expanding the knowledge we have about our environment.
+й розширюючи наші знання про довкілля.
 
 34
 00:02:01,060 --> 00:02:04,635
-Data publishers can choose the type of use and attribution
+Видавці можуть вибирати тип використання та посилання на джерело,
 
 35
 00:02:04,640 --> 00:02:06,340
-that they want for their data
+супутнє для своїх даних,
 
 36
 00:02:06,340 --> 00:02:09,680
-and receive public recognition for their contributions.
+і отримувати визнання на свої внески.
 
 37
 00:02:11,460 --> 00:02:13,840
