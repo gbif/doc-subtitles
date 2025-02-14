@@ -1,54 +1,54 @@
 1
 00:00:06,395 --> 00:00:09,535
-For centuries, we have studied the great variety of species
+Po staletí jsme studovali velkou rozmanitost druhů
 
 2
 00:00:09,540 --> 00:00:11,840
-that inhabit the planet in order to understand
+které obývají planetu, abychom pochopili
 
 3
 00:00:11,840 --> 00:00:15,240
-how nature’s dynamics work.
+jak funguje dynamika přírody.
 
 4
 00:00:17,820 --> 00:00:20,935
-Thousands of institutions and people around the world have invested
+Tisíce institucí a lidí po celém světě investovaly do projektu
 
 5
 00:00:20,935 --> 00:00:24,045
-in efforts to generate knowledgeand make it visible
+úsilí o vytváření znalostí a jejich zviditelnění
 
 6
 00:00:24,045 --> 00:00:26,925
-through millions of publications that
+prostřednictvím milionů publikací, které
 
 7
 00:00:26,925 --> 00:00:30,940
-that we can now simply find by typing the word "biodiversity".
+které nyní můžeme jednoduše najít zadáním slova "biodiverzita".
 
 8
 00:00:33,280 --> 00:00:36,840
-Most of the data behind all this information
+Většina dat, která stojí za všemi těmito informacemi
 
 9
 00:00:36,840 --> 00:00:39,840
-is scattered and not very accessible.
+je rozptýlená a nepříliš dostupná.
 
 10
 00:00:40,580 --> 00:00:43,955
-This data gains value when it is available
+Tyto data získávají na hodnotě, když jsou k dispozici
 
 11
 00:00:43,960 --> 00:00:46,160
-for analysis, use and reuse,
+pro analýzu, užití a opakované použití,
 
 12
 00:00:46,160 --> 00:00:49,360
-serving as an essential foundation for creating and improving knowledge.
+sloužící jako nezbytný základ pro vytváření a zlepšování znalostí.
 
 13
 00:00:50,920 --> 00:00:53,900
-Can you imagine how much knowledge could be generated
+Dokážete si představit, kolik znalostí by se dalo vygenerovat
 
 14
 00:00:53,900 --> 00:00:57,160
