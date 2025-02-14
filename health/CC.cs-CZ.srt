@@ -1,50 +1,50 @@
 1
 00:00:06,640 --> 00:00:10,240
-A tiny pathogen has reminded us all of
+Drobný patogen nám všem připomněl
 
 2
 00:00:10,240 --> 00:00:14,500
-how vulnerable and how deeply connected human health is
+jak zranitelné a hluboce propojené je lidské zdraví
 
 3
 00:00:14,500 --> 00:00:18,000
-to the well-being of ecosystems and other species.
+se zdravím ekosystémů a ostatních druhů.
 
 4
 00:00:18,960 --> 00:00:21,600
-The World Health Organization estimates that 
+Světová zdravotnická organizace odhaduje, že 
 
 5
 00:00:21,600 --> 00:00:26,240
-60 percent of all infectious diseases originate among different animals. 
+60 procent všech infekčních onemocnění pochází od různých zvířat.
 
 6
 00:00:27,200 --> 00:00:31,760
-Knowing where the species that transmit disease-causing pathogens occur 
+Znalost místa výskytu druhů, které přenášejí patogeny způsobující onemocnění 
 
 7
 00:00:31,760 --> 00:00:36,880
-is important for recognizing, managing, and preventing potential health threats.
+je důležité pro rozpoznání, řízení a prevenci možných zdravotních hrozeb.
 
 8
 00:00:37,520 --> 00:00:41,520
-With data shared through the Global Biodiversity Information Facility,
+S daty sdílenými prostřednictvím Globálního informačního systému o biologické rozmanitosti,
 
 9
 00:00:41,520 --> 00:00:43,120
-or GBIF, 
+tedy GBIF,
 
 10
 00:00:43,120 --> 00:00:46,160
-scientists and researchers from various disciplines 
+vědci a výzkumní pracovníci z různých oborů
 
 11
 00:00:46,160 --> 00:00:49,840
-map the species involved in cycles of disease transmission 
+mapují druhy, které se podílejí na cyklech přenosu nemocí
 
 12
 00:00:49,840 --> 00:00:52,280
-and how their distributions are changing.
+a jak se mění jejich rozšíření.
 
 13
 00:00:52,840 --> 00:00:55,280
