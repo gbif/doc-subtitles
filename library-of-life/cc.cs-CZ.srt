@@ -52,111 +52,111 @@ Dokážete si představit, kolik znalostí by se dalo vygenerovat
 
 14
 00:00:53,900 --> 00:00:57,160
-if more people could find and make use of this data
+kdyby tato data mohlo najít a využívat více lidí
 
 15
 00:00:57,160 --> 00:00:59,500
-in an organized, accessible way?
+organizovaným a přístupným způsobem?
 
 16
 00:01:00,980 --> 00:01:04,540
-The Global Biodiversity Information Facility
+Globální informační nástroj pro biologickou rozmanitost
 
 17
 00:01:04,540 --> 00:01:07,340
-GBIF is a network of governments and organizations
+GBIF je síť vlád a organizací
 
 18
 00:01:07,340 --> 00:01:09,660
-that enables the publication of data
+která umožňuje zveřejňovat data
 
 19
 00:01:09,660 --> 00:01:12,280
-and shares it with the world,
+a sdílí ji se světem,
 
 20
 00:01:12,280 --> 00:01:14,680
-making information about biodiversity
+jako poskytování informací o biologické rozmanitosti
 
 21
 00:01:14,680 --> 00:01:17,740
-available online for researchers and citizens,
+dostupné online pro výzkumné pracovníky a občany,
 
 22
 00:01:17,740 --> 00:01:19,740
-regardless of their location.
+bez ohledu na to, kde se nacházejí.
 
 23
 00:01:21,220 --> 00:01:23,100
-In response to recommendations
+V návaznosti na doporučení
 
 24
 00:01:23,100 --> 00:01:25,320
-from international agreements and conventions,
+z mezinárodních dohod a úmluv,
 
 25
 00:01:25,320 --> 00:01:28,720
-GBIF includes dozens of participating countries
+GBIF zahrnuje desítky zúčastněných zemí
 
 26
 00:01:28,720 --> 00:01:30,760
-and nearly 2,000 publishers,
+a téměř 2 000 vydavatelů,
 
 27
 00:01:30,760 --> 00:01:34,720
-bringing together a global scale data infrastructure for the natural world
+kteří vytvářejí datovou infrastrukturu pro svět přírody v celosvětovém měřítku
 
 28
 00:01:34,720 --> 00:01:37,520
-that informs the sustainable use of biodiversity
+a který informuje o udržitelném využívání biologické rozmanitosti
 
 29
 00:01:37,520 --> 00:01:40,680
-and contributes to improving people’s quality of life.
+a přispívá ke zlepšení kvality života lidí.
 
 30
 00:01:45,420 --> 00:01:47,800
-GBIF allows you to share the data that you capture,
+GBIF vám umožňuje sdílet získaná data,
 
 31
 00:01:47,800 --> 00:01:51,600
-organize, standardize and publish,
+organizovat, standardizovat a publikovat,
 
 32
 00:01:52,700 --> 00:01:56,600
-contributing to research, education and decision-making
+přispívat k výzkumu, vzdělávání a rozhodování
 
 33
 00:01:56,600 --> 00:02:00,060
-and expanding the knowledge we have about our environment.
+a rozšiřovat znalosti o našem životním prostředí.
 
 34
 00:02:01,060 --> 00:02:04,635
-Data publishers can choose the type of use and attribution
+Vydavatelé dat si mohou zvolit typ použití a uvedení autorství
 
 35
 00:02:04,640 --> 00:02:06,340
-that they want for their data
+které chtějí pro svá data
 
 36
 00:02:06,340 --> 00:02:09,680
-and receive public recognition for their contributions.
+a získat veřejné uznání za své příspěvky.
 
 37
 00:02:11,460 --> 00:02:13,840
-GBIF also makes it possible
+GBIF také umožňuje
 
 38
 00:02:13,840 --> 00:02:15,740
-for any citizen of the world, including you,
+pro všechny občany světa, včetně vás,
 
 39
 00:02:15,740 --> 00:02:19,000
-to access all the free and open data
+mít přístup ke všem bezplatným a otevřeným datům
 
 40
 00:02:19,000 --> 00:02:21,760
-published through the network’s data portals.
+publikovaných prostřednictvím datových portálů sítě.
 
 41
 00:02:22,280 --> 00:02:26,200
