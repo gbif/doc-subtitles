@@ -48,89 +48,89 @@ a jak se mění jejich rozšíření.
 
 13
 00:00:52,840 --> 00:00:55,280
-Such data offers an essential element in
+Tyto data představují zásadní prvek v
 
 14
 00:00:55,280 --> 00:00:58,160
-understanding zoonotic and vector-borne diseases 
+porozumění zoonózám a nemocem přenášeným vektory
 
 15
 00:00:58,720 --> 00:01:01,920
-and identifying areas at risk of potential outbreaks. 
+a určování oblastí ohrožených možným výskytem nákazy.
 
 16
 00:01:02,960 --> 00:01:07,720
-Policymakers and public health officials can use the resulting insights
+Politici a zástupci veřejného zdraví mohou využít získané poznatky
 
 17
 00:01:07,720 --> 00:01:12,800
-to prepare responses, focus surveillance and allocate resources
+k přípravě reakcí, zaměření dohledu a přidělování zdrojů
 
 18
 00:01:12,800 --> 00:01:15,440
-to protect people’s lives and livelihoods.
+k ochraně životů lidí a jejich živobytí.
 
 19
 00:01:16,080 --> 00:01:19,680
-When combined with climatic and environmental information, 
+V kombinaci s klimatickými informacemi a informacemi o životním prostředí,
 
 20
 00:01:19,680 --> 00:01:22,680
-GBIF-mediated data sometimes reveals
+data zprostředkovaná GBIF někdy odhalují
 
 21
 00:01:22,680 --> 00:01:25,120
-and even predicts sites of disease spillover. 
+a dokonce předvídají místa šíření nákazy.
 
 22
 00:01:25,680 --> 00:01:30,080
-In 2018, an analysis using data from the GBIF network 
+V roce 2018 byla provedena analýza s využitím dat ze sítě GBIF
 
 23
 00:01:30,080 --> 00:01:34,880
-identified a high-risk hotspot for the Nipah virus outbreak in southern India
+která identifikovala vysoce rizikové ohnisko výskytu viru Nipah v jižní Indii
 
 24
 00:01:34,880 --> 00:01:36,800
-just before the disease emerged there.
+těsně předtím, než se tam nemoc objevila.
 
 25
 00:01:37,440 --> 00:01:39,480
-By contributing to a "One Health" approach 
+Přispíváním k přístupu "Jedno zdraví"
 
 26
 00:01:39,480 --> 00:01:42,480
-that recognizes the intimate connection 
+které uznává těsné spojení
 
 26
 00:01:42,480 --> 00:01:47,040
-between the well-being of humans, animals, and ecosystems, 
+mezi kvalitou života lidí, zvířat a ekosystémů,
 
 27
 00:01:47,040 --> 00:01:50,040
-data shared through GBIF helps us
+tak právě data sdílená prostřednictvím GBIF nám pomáhají
 
 28
 00:01:50,040 --> 00:01:53,440
-understand and prepare for potential disease risks, 
+porozumět možným rizikům nákazy a připravit se na ně,
 
 29
 00:01:53,440 --> 00:01:57,040
-reducing the many costs of future disease outbreaks 
+snížit mnohé náklady na budoucí propuknutí nemocí
 
 30
 00:01:57,040 --> 00:01:59,840
-to keep people and the planet healthy.
+a chránit zdraví lidí i planety.
 
 31
 00:02:00,480 --> 00:02:01,960
-To learn more about the connections
+Chcete-li se dozvědět více o souvislostech
 
 32
 00:02:01,960 --> 00:02:06,720
-GBIF reveals between biodiversity and human health
+jak GBIF odhaluje souvislost mezi biologickou rozmanitostí a lidským zdravím
 
 33
 00:02:06,720 --> 00:02:09,500
-visit www.gbif.org/health
+navštivte www.gbif.org/health
 
