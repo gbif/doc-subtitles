@@ -160,7 +160,7 @@ publikovaných prostřednictvím datových portálů sítě.
 
 41
 00:02:22,280 --> 00:02:26,200
-The nodes from each one of the participating countries
+Uzly z každé ze zúčastněných zemí
 
 42
 00:02:26,200 --> 00:02:28,480
