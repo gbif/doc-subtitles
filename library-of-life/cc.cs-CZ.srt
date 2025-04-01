@@ -1,0 +1,204 @@
+1
+00:00:06,395 --> 00:00:09,535
+Po staletí jsme studovali velkou rozmanitost druhů
+
+2
+00:00:09,540 --> 00:00:11,840
+které obývají planetu, abychom pochopili
+
+3
+00:00:11,840 --> 00:00:15,240
+jak funguje dynamika přírody.
+
+4
+00:00:17,820 --> 00:00:20,935
+Tisíce institucí a lidí po celém světě investovaly do projektu
+
+5
+00:00:20,935 --> 00:00:24,045
+úsilí o vytváření znalostí a jejich zviditelnění
+
+6
+00:00:24,045 --> 00:00:26,925
+prostřednictvím milionů publikací, které
+
+7
+00:00:26,925 --> 00:00:30,940
+které nyní můžeme jednoduše najít zadáním slova "biodiverzita".
+
+8
+00:00:33,280 --> 00:00:36,840
+Většina dat, která stojí za všemi těmito informacemi
+
+9
+00:00:36,840 --> 00:00:39,840
+je rozptýlená a nepříliš dostupná.
+
+10
+00:00:40,580 --> 00:00:43,955
+Tyto data získávají na hodnotě, když jsou k dispozici
+
+11
+00:00:43,960 --> 00:00:46,160
+pro analýzu, užití a opakované použití,
+
+12
+00:00:46,160 --> 00:00:49,360
+sloužící jako nezbytný základ pro vytváření a zlepšování znalostí.
+
+13
+00:00:50,920 --> 00:00:53,900
+Dokážete si představit, kolik znalostí by se dalo vygenerovat
+
+14
+00:00:53,900 --> 00:00:57,160
+kdyby tato data mohlo najít a využívat více lidí
+
+15
+00:00:57,160 --> 00:00:59,500
+organizovaným a přístupným způsobem?
+
+16
+00:01:00,980 --> 00:01:04,540
+Globální informační nástroj pro biologickou rozmanitost
+
+17
+00:01:04,540 --> 00:01:07,340
+GBIF je síť vlád a organizací
+
+18
+00:01:07,340 --> 00:01:09,660
+která umožňuje zveřejňovat data
+
+19
+00:01:09,660 --> 00:01:12,280
+a sdílí ji se světem,
+
+20
+00:01:12,280 --> 00:01:14,680
+jako poskytování informací o biologické rozmanitosti
+
+21
+00:01:14,680 --> 00:01:17,740
+dostupné online pro výzkumné pracovníky a občany,
+
+22
+00:01:17,740 --> 00:01:19,740
+bez ohledu na to, kde se nacházejí.
+
+23
+00:01:21,220 --> 00:01:23,100
+V návaznosti na doporučení
+
+24
+00:01:23,100 --> 00:01:25,320
+z mezinárodních dohod a úmluv,
+
+25
+00:01:25,320 --> 00:01:28,720
+GBIF zahrnuje desítky zúčastněných zemí
+
+26
+00:01:28,720 --> 00:01:30,760
+a téměř 2 000 vydavatelů,
+
+27
+00:01:30,760 --> 00:01:34,720
+kteří vytvářejí datovou infrastrukturu pro svět přírody v celosvětovém měřítku
+
+28
+00:01:34,720 --> 00:01:37,520
+a který informuje o udržitelném využívání biologické rozmanitosti
+
+29
+00:01:37,520 --> 00:01:40,680
+a přispívá ke zlepšení kvality života lidí.
+
+30
+00:01:45,420 --> 00:01:47,800
+GBIF vám umožňuje sdílet získaná data,
+
+31
+00:01:47,800 --> 00:01:51,600
+organizovat, standardizovat a publikovat,
+
+32
+00:01:52,700 --> 00:01:56,600
+přispívat k výzkumu, vzdělávání a rozhodování
+
+33
+00:01:56,600 --> 00:02:00,060
+a rozšiřovat znalosti o našem životním prostředí.
+
+34
+00:02:01,060 --> 00:02:04,635
+Vydavatelé dat si mohou zvolit typ použití a uvedení autorství
+
+35
+00:02:04,640 --> 00:02:06,340
+které chtějí pro svá data
+
+36
+00:02:06,340 --> 00:02:09,680
+a získat veřejné uznání za své příspěvky.
+
+37
+00:02:11,460 --> 00:02:13,840
+GBIF také umožňuje
+
+38
+00:02:13,840 --> 00:02:15,740
+pro všechny občany světa, včetně vás,
+
+39
+00:02:15,740 --> 00:02:19,000
+mít přístup ke všem bezplatným a otevřeným datům
+
+40
+00:02:19,000 --> 00:02:21,760
+publikovaných prostřednictvím datových portálů sítě.
+
+41
+00:02:22,280 --> 00:02:26,200
+Uzly z každé ze zúčastněných zemí
+
+42
+00:02:26,200 --> 00:02:28,480
+radí a spolupracují s organizacemi
+
+43
+00:02:28,480 --> 00:02:31,200
+ve všech fázích procesu publikování dat
+
+44
+00:02:31,200 --> 00:02:33,900
+aby byla zaručena vysoká kvalita dat, která jsou otevřená a přístupná.
+
+45
+00:02:34,880 --> 00:02:38,300
+Chceme, abyste se stali součástí GBIF,
+
+46
+00:02:38,300 --> 00:02:42,080
+abychom společně mohli budovat udržitelnou budoucnost
+
+47
+00:02:42,080 --> 00:02:45,080
+v níž jsou informace o biologické rozmanitosti volně a všeobecně dostupné
+
+48
+00:02:45,080 --> 00:02:47,240
+vědě a společnosti.
+
+49
+00:02:50,220 --> 00:02:51,200
+Chcete-li se dozvědět více o tom, jak se stát součástí
+
+50
+00:02:51,200 --> 00:02:54,720
+této globální sítě pro biologickou rozmanitost,
+
+51
+00:02:54,720 --> 00:02:58,900
+navštivte www.gbif.org.
+

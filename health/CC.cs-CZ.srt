@@ -1,0 +1,136 @@
+1
+00:00:06,640 --> 00:00:10,240
+Drobný patogen nám všem připomněl
+
+2
+00:00:10,240 --> 00:00:14,500
+jak zranitelné a hluboce propojené je lidské zdraví
+
+3
+00:00:14,500 --> 00:00:18,000
+se zdravím ekosystémů a ostatních druhů.
+
+4
+00:00:18,960 --> 00:00:21,600
+Světová zdravotnická organizace odhaduje, že 
+
+5
+00:00:21,600 --> 00:00:26,240
+60 procent všech infekčních onemocnění pochází od různých zvířat.
+
+6
+00:00:27,200 --> 00:00:31,760
+Znalost místa výskytu druhů, které přenášejí patogeny způsobující onemocnění 
+
+7
+00:00:31,760 --> 00:00:36,880
+je důležité pro rozpoznání, řízení a prevenci možných zdravotních hrozeb.
+
+8
+00:00:37,520 --> 00:00:41,520
+S daty sdílenými prostřednictvím Globálního informačního systému o biologické rozmanitosti,
+
+9
+00:00:41,520 --> 00:00:43,120
+tedy GBIF,
+
+10
+00:00:43,120 --> 00:00:46,160
+vědci a výzkumní pracovníci z různých oborů
+
+11
+00:00:46,160 --> 00:00:49,840
+mapují druhy, které se podílejí na cyklech přenosu nemocí
+
+12
+00:00:49,840 --> 00:00:52,280
+a jak se mění jejich rozšíření.
+
+13
+00:00:52,840 --> 00:00:55,280
+Tyto data představují zásadní prvek v
+
+14
+00:00:55,280 --> 00:00:58,160
+porozumění zoonózám a nemocem přenášeným vektory
+
+15
+00:00:58,720 --> 00:01:01,920
+a určování oblastí ohrožených možným výskytem nákazy.
+
+16
+00:01:02,960 --> 00:01:07,720
+Politici a zástupci veřejného zdraví mohou využít získané poznatky
+
+17
+00:01:07,720 --> 00:01:12,800
+k přípravě reakcí, zaměření dohledu a přidělování zdrojů
+
+18
+00:01:12,800 --> 00:01:15,440
+k ochraně životů lidí a jejich živobytí.
+
+19
+00:01:16,080 --> 00:01:19,680
+V kombinaci s klimatickými informacemi a informacemi o životním prostředí,
+
+20
+00:01:19,680 --> 00:01:22,680
+data zprostředkovaná GBIF někdy odhalují
+
+21
+00:01:22,680 --> 00:01:25,120
+a dokonce předvídají místa šíření nákazy.
+
+22
+00:01:25,680 --> 00:01:30,080
+V roce 2018 byla provedena analýza s využitím dat ze sítě GBIF
+
+23
+00:01:30,080 --> 00:01:34,880
+která identifikovala vysoce rizikové ohnisko výskytu viru Nipah v jižní Indii
+
+24
+00:01:34,880 --> 00:01:36,800
+těsně předtím, než se tam nemoc objevila.
+
+25
+00:01:37,440 --> 00:01:39,480
+Přispíváním k přístupu "Jedno zdraví"
+
+26
+00:01:39,480 --> 00:01:42,480
+které uznává těsné spojení
+
+26
+00:01:42,480 --> 00:01:47,040
+mezi kvalitou života lidí, zvířat a ekosystémů,
+
+27
+00:01:47,040 --> 00:01:50,040
+tak právě data sdílená prostřednictvím GBIF nám pomáhají
+
+28
+00:01:50,040 --> 00:01:53,440
+porozumět možným rizikům nákazy a připravit se na ně,
+
+29
+00:01:53,440 --> 00:01:57,040
+snížit mnohé náklady na budoucí propuknutí nemocí
+
+30
+00:01:57,040 --> 00:01:59,840
+a chránit zdraví lidí i planety.
+
+31
+00:02:00,480 --> 00:02:01,960
+Chcete-li se dozvědět více o souvislostech
+
+32
+00:02:01,960 --> 00:02:06,720
+jak GBIF odhaluje souvislost mezi biologickou rozmanitostí a lidským zdravím
+
+33
+00:02:06,720 --> 00:02:09,500
+navštivte www.gbif.org/health
+

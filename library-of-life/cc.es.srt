@@ -12,11 +12,7 @@ para poder comprender cómo funcionan las dinámicas de la naturaleza.
 
 4
 00:00:17,820 --> 00:00:20,935
-Miles de instituciones y personas en el mundo, han invertido 
- 
-5
-00:00:20,935 --> 00:00:24,045
-esfuerzos para generar conocimiento y hacerlo visible
+Miles de instituciones y personas en el mundo, han invertido
 
 5
 00:00:20,935 --> 00:00:24,045
@@ -29,10 +25,6 @@ a través de millones de publicaciones que, hoy en día,
 7
 00:00:26,925 --> 00:00:30,940
 podemos conocer con sólo teclear la palabra “biodiversidad”.
- 
-8
-00:00:33,280 --> 00:00:36,840
-La mayoría de los datos que dan origen a toda esta información,
 
 8
 00:00:33,280 --> 00:00:36,840
@@ -44,7 +36,7 @@ se encuentran dispersos y son poco accesibles.
 
 10
 00:00:40,580 --> 00:00:43,955
-Estos datos adquieren valor cuando se facilitan
+Estos datos obtienen valor cuando están disponibles
 
 11
 00:00:43,960 --> 00:00:46,160
@@ -64,11 +56,7 @@ si más personas acceden y hacen uso de estos datos disponibles
 
 15
 00:00:57,160 --> 00:00:59,500
-de manera organizada y comprensible?
- 
-16
-00:01:00,980 --> 00:01:04,540
-La Infraestructura Mundial de Información en Biodiversidad,
+de una manera organizada y accesible?
 
 16
 00:01:00,980 --> 00:01:04,540
